@@ -5,7 +5,7 @@
 ## 他に用意するもの
 
 - M5Stack本体 (Core BasicまたはCore2がおすすめ）
-- サーボモータ2個 ([FS90MG](https://www.switch-science.com/products/8041)や[SG90](https://akizukidenshi.com/catalog/g/gM-08761/)など)
+- サーボモータ2個 ([FS90MG](https://www.switch-science.com/products/8041)や[M5Stack ServoKit 180deg](https://www.switch-science.com/products/6478)、[SG90](https://akizukidenshi.com/catalog/g/gM-08761/)など)
 - Groveケーブル ([M5Stack用5cm](https://www.switch-science.com/products/8664)など。すでにM5StackのUNITなどで余っているものがあればそれでもOK）
 - [タカオさんの"GoBottom版"の筐体一式](https://mongonta.booth.pm/)、または[それの3Dデータ](https://github.com/meganetaaan/stack-chan/tree/dev/v1.0/case/contributed/mongonta_case_for_SG90_and_M5GoBottomBoard)を3Dプリント出力したものと必要なネジ類
 
