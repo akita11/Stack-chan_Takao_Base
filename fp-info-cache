@@ -1,18 +1,4 @@
-18918987123253962
-Audio_Module
-Reverb_BTDR-1H
-Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
-audio belton reverb
-0
-7
-7
-Audio_Module
-Reverb_BTDR-1V
-Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
-audio belton reverb
-0
-7
-7
+18489410662927400
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -1253,6 +1239,13 @@ Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.c
 8
 4
 Button_Switch_SMD
+SW_SPDT_9x4mm_W2.5mm
+
+
+0
+3
+3
+Button_Switch_SMD
 SW_SPDT_CK-JS102011SAQN
 Sub-miniature slide switch, right-angle, http://www.ckswitches.com/media/1422/js.pdf
 switch spdt
@@ -2302,139 +2295,6 @@ speaker CUI
 0
 2
 2
-Calibration_Scale
-Gauge_10mm_Type1_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 1,
-Gauge Massstab 10mm CopperTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type1_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 1,
-Gauge Massstab 10mm SilkScreenTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type2_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 2,
-Gauge Massstab 10mm CopperTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type2_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 2,
-Gauge Massstab 10mm SilkScreenTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type3_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 3,
-Gauge Massstab 10mm CopperTop Type 3
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type3_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 3,
-Gauge Massstab 10mm SilkScreenTop Type 3
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type4_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 4,
-Gauge Massstab 10mm CopperTop Type 4
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type4_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 4,
-Gauge Massstab 10mm SilkScreenTop Type 4
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type5_CopperTop
-Gauge, Massstab, 10mm, CopperTop, Type 5,
-Gauge Massstab 10mm CopperTop Type 5
-0
-0
-0
-Calibration_Scale
-Gauge_10mm_Type5_SilkScreenTop
-Gauge, Massstab, 10mm, SilkScreenTop, Type 5,
-Gauge Massstab 10mm SilkScreenTop Type 5
-0
-0
-0
-Calibration_Scale
-Gauge_50mm_Type1_CopperTop
-Gauge, Massstab, 50mm, CopperTop, Type 1,
-Gauge Massstab 50mm CopperTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_50mm_Type1_SilkScreenTop
-Gauge, Massstab, 50mm, SilkScreenTop, Type 1,
-Gauge Massstab 50mm SilkScreenTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_50mm_Type2_CopperTop
-Gauge, Massstab, 50mm, CopperTop, Type 2,
-Gauge Massstab 50mm CopperTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_50mm_Type2_SilkScreenTop
-Gauge, Massstab, 50mm, SilkScreenTop, Type 2,
-Gauge Massstab 50mm SilkScreenTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Grid_Type1_CopperTop
-Gauge, Massstab, 100mm, Gitter, Grid, CopperTop, Type 1,
-Gauge Massstab 100mm Gitter Grid CopperTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Type1_CopperTop
-Gauge, Massstab, 100mm, CopperTop, Type 1,
-Gauge Massstab 100mm CopperTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Type1_SilkScreenTop
-Gauge, Massstab, 100mm, SilkScreenTop, Type 1,
-Gauge Massstab 100mm SilkScreenTop Type 1
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Type2_CopperTop
-Gauge, Massstab, 100mm, CopperTop, Type 2,
-Gauge Massstab 100mm  CopperTop Type 2
-0
-0
-0
-Calibration_Scale
-Gauge_100mm_Type2_SilkScreenTop
-Gauge, Massstab, 100mm, SilkScreenTop, Type 2,
-Gauge Massstab 100mm SilkScreenTop Type 2
-0
-0
-0
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -7825,153 +7685,6 @@ THT Mini XLR 5Pin right angle
 0
 5
 5
-Connector_BarrelJack
-BarrelJack_CLIFF_FC681465S_SMT_Horizontal
-Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf
-Power Jack SMT
-0
-4
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-036AH-SMT_Horizontal
-Surface-mount DC Barrel Jack, http://www.cui.com/product/resource/pj-036ah-smt.pdf
-Power Jack SMT
-0
-3
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-063AH_Horizontal
-Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
-barrel jack cui dc power
-0
-4
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles
-Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
-barrel jack cui dc power
-0
-4
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-102AH_Horizontal
-Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
-Power Jack
-0
-3
-3
-Connector_BarrelJack
-BarrelJack_GCT_DCJ200-10-A_Horizontal
-Barrel jack connector (5.5 mm outer diameter, 2.05 inner diameter ), https://gct.co/files/drawings/dcj200-10.pdf
-connector barrel jack
-0
-3
-3
-Connector_BarrelJack
-BarrelJack_Horizontal
-DC Barrel Jack
-Power Jack
-0
-3
-3
-Connector_BarrelJack
-BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal
-DC Power Jack, 13A, 24V, Panel Mount,Through-hole, https://www.switchcraft.com/Drawings/RAPC10U_CD.pdf
-barreljack switchcraftconxall dc power
-0
-2
-2
-Connector_BarrelJack
-BarrelJack_Wuerth_6941xx301002
-Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
-connector barrel jack
-0
-3
-3
-Connector_Card
-CF-Card_3M_N7E50-7516PK-20-WF
-Compact Flash Card connector (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)
-connector cf
-0
-54
-50
-Connector_Card
-SD_Kyocera_145638009211859+
-SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-13
-Connector_Card
-SD_Kyocera_145638009511859+
-SD Card Connector, Normal Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-13
-Connector_Card
-SD_Kyocera_145638109211859+
-SD Card Connector, Reverse Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-13
-Connector_Card
-SD_Kyocera_145638109511859+
-SD Card Connector, Reverse Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-13
-Connector_Card
-SD_TE_2041021
-SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)
-sd card
-0
-15
-12
-Connector_Card
-microSD_HC_Hirose_DM3AT-SF-PEJM5
-Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
-Micro SD
-0
-14
-11
-Connector_Card
-microSD_HC_Hirose_DM3BT-DSF-PEJS
-Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)
-Micro SD
-0
-16
-11
-Connector_Card
-microSD_HC_Hirose_DM3D-SF
-Micro SD, SMD, right-angle, push-pull (https://media.digikey.com/PDF/Data%20Sheets/Hirose%20PDFs/DM3D-SF.pdf)
-Micro SD
-0
-14
-11
-Connector_Card
-microSD_HC_Molex_104031-0811
-1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
-microSD SD molex
-0
-14
-11
-Connector_Card
-microSD_HC_Wuerth_693072010801
-http://katalog.we-online.de/em/datasheet/693072010801.pdf
-Micro SD Wuerth Wurth Würth
-0
-12
-9
-Connector_Card
-microSIM_JAE_SF53S006VCBR2000
-https://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf
-microSIM GSM Card
-0
-14
-7
 Connector_Coaxial
 BNC_Amphenol_031-6575_Horizontal
 dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)
@@ -8679,846 +8392,6 @@ DIN 41612 IEC 60603 R
 0
 96
 96
-Connector_Dsub
-DSUB-9_Female_EdgeMount_P2.77mm
-9-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 25mm
-0
-9
-9
-Connector_Dsub
-DSUB-9_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
-0
-9
-9
-Connector_Dsub
-DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm
-0
-9
-9
-Connector_Dsub
-DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Female_Vertical_P2.77x2.84mm
-9-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 25mm
-0
-9
-9
-Connector_Dsub
-DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles
-9-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Male_EdgeMount_P2.77mm
-9-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 25mm
-0
-9
-9
-Connector_Dsub
-DSUB-9_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.54mm pin-PCB-offset 9.4mm
-0
-9
-9
-Connector_Dsub
-DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm
-0
-9
-9
-Connector_Dsub
-DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
-9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-9_Male_Vertical_P2.77x2.84mm
-9-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 25mm
-0
-9
-9
-Connector_Dsub
-DSUB-9_Male_Vertical_P2.77x2.84mm_MountingHoles
-9-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-9-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 25mm
-0
-11
-10
-Connector_Dsub
-DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-17
-16
-Connector_Dsub
-DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-17
-16
-Connector_Dsub
-DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 9.4mm
-0
-15
-15
-Connector_Dsub
-DSUB-15-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm
-0
-15
-15
-Connector_Dsub
-DSUB-15-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
-15-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 25mm
-0
-17
-16
-Connector_Dsub
-DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-17
-16
-Connector_Dsub
-DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 25mm mounting-hole-offset 25mm
-0
-17
-16
-Connector_Dsub
-DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 9.4mm
-0
-15
-15
-Connector_Dsub
-DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x2.54mm pin-PCB-offset 9.4mm
-0
-15
-15
-Connector_Dsub
-DSUB-15-HD_Male_Vertical_P2.29x1.98mm_MountingHoles
-15-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.29x1.98mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector straight vertical THT male pitch 2.29x1.98mm mounting holes distance 25mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Female_EdgeMount_P2.77mm
-15-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 33.3mm
-0
-15
-15
-Connector_Dsub
-DSUB-15_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
-0
-15
-15
-Connector_Dsub
-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm
-0
-15
-15
-Connector_Dsub
-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Female_Vertical_P2.77x2.84mm
-15-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 33.3mm
-0
-15
-15
-Connector_Dsub
-DSUB-15_Female_Vertical_P2.77x2.84mm_MountingHoles
-15-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Male_EdgeMount_P2.77mm
-15-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 33.3mm
-0
-15
-15
-Connector_Dsub
-DSUB-15_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.54mm pin-PCB-offset 9.4mm
-0
-15
-15
-Connector_Dsub
-DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm
-0
-15
-15
-Connector_Dsub
-DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
-15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-15_Male_Vertical_P2.77x2.84mm
-15-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 33.3mm
-0
-15
-15
-Connector_Dsub
-DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles
-15-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-15-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 33.3mm
-0
-17
-16
-Connector_Dsub
-DSUB-25_Female_EdgeMount_P2.77mm
-25-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 47.1mm
-0
-25
-25
-Connector_Dsub
-DSUB-25_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
-0
-25
-25
-Connector_Dsub
-DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm
-0
-25
-25
-Connector_Dsub
-DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Female_Vertical_P2.77x2.84mm
-25-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 47.1mm
-0
-25
-25
-Connector_Dsub
-DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles
-25-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Male_EdgeMount_P2.77mm
-25-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 47.1mm
-0
-25
-25
-Connector_Dsub
-DSUB-25_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.54mm pin-PCB-offset 9.4mm
-0
-25
-25
-Connector_Dsub
-DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm
-0
-25
-25
-Connector_Dsub
-DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
-25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-25_Male_Vertical_P2.77x2.84mm
-25-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 47.1mm
-0
-25
-25
-Connector_Dsub
-DSUB-25_Male_Vertical_P2.77x2.84mm_MountingHoles
-25-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-25-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 47.1mm
-0
-27
-26
-Connector_Dsub
-DSUB-26-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-28
-27
-Connector_Dsub
-DSUB-26-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
-26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-28
-27
-Connector_Dsub
-DSUB-26-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
-26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 9.4mm
-0
-26
-26
-Connector_Dsub
-DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
-26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm
-0
-26
-26
-Connector_Dsub
-DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
-26-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-26-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 33.3mm
-0
-28
-27
-Connector_Dsub
-DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-28
-27
-Connector_Dsub
-DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
-26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
-0
-28
-27
-Connector_Dsub
-DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
-26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 9.4mm
-0
-26
-26
-Connector_Dsub
-DSUB-26-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
-26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x2.54mm pin-PCB-offset 9.4mm
-0
-26
-26
-Connector_Dsub
-DSUB-26-HD_Male_Vertical_P2.29x1.98mm_MountingHoles
-26-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.29x1.98mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-26-pin D-Sub connector straight vertical THT male pitch 2.29x1.98mm mounting holes distance 33.3mm
-0
-28
-27
-Connector_Dsub
-DSUB-37_Female_EdgeMount_P2.77mm
-37-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 63.5mm
-0
-37
-37
-Connector_Dsub
-DSUB-37_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
-0
-37
-37
-Connector_Dsub
-DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm
-0
-37
-37
-Connector_Dsub
-DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Female_Vertical_P2.77x2.84mm
-37-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 63.5mm
-0
-37
-37
-Connector_Dsub
-DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles
-37-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Male_EdgeMount_P2.77mm
-37-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 63.5mm
-0
-37
-37
-Connector_Dsub
-DSUB-37_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.54mm pin-PCB-offset 9.4mm
-0
-37
-37
-Connector_Dsub
-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm
-0
-37
-37
-Connector_Dsub
-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
-37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-37_Male_Vertical_P2.77x2.84mm
-37-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 63.5mm
-0
-37
-37
-Connector_Dsub
-DSUB-37_Male_Vertical_P2.77x2.84mm_MountingHoles
-37-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-37-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 63.5mm
-0
-39
-38
-Connector_Dsub
-DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-46
-45
-Connector_Dsub
-DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-46
-45
-Connector_Dsub
-DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 9.4mm
-0
-44
-44
-Connector_Dsub
-DSUB-44-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm
-0
-44
-44
-Connector_Dsub
-DSUB-44-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
-44-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-44-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 47.1mm
-0
-46
-45
-Connector_Dsub
-DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-46
-45
-Connector_Dsub
-DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
-0
-46
-45
-Connector_Dsub
-DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 9.4mm
-0
-44
-44
-Connector_Dsub
-DSUB-44-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
-44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x2.54mm pin-PCB-offset 9.4mm
-0
-44
-44
-Connector_Dsub
-DSUB-44-HD_Male_Vertical_P2.29x1.98mm_MountingHoles
-44-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.29x1.98mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-44-pin D-Sub connector straight vertical THT male pitch 2.29x1.98mm mounting holes distance 47.1mm
-0
-46
-45
-Connector_Dsub
-DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-64
-63
-Connector_Dsub
-DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
-62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-64
-63
-Connector_Dsub
-DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset9.40mm
-62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x1.98mm pin-PCB-offset 9.4mm
-0
-62
-62
-Connector_Dsub
-DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm
-62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x2.54mm pin-PCB-offset 9.4mm
-0
-62
-62
-Connector_Dsub
-DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles
-62-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.41x1.98mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-62-pin D-Sub connector straight vertical THT female pitch 2.41x1.98mm mounting holes distance 63.5mm
-0
-64
-63
-Connector_Dsub
-DSUB-62-HD_Male_Horizontal_P2.41x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
-62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-64
-63
-Connector_Dsub
-DSUB-62-HD_Male_Horizontal_P2.41x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
-62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
-0
-64
-63
-Connector_Dsub
-DSUB-62-HD_Male_Horizontal_P2.41x1.98mm_EdgePinOffset9.40mm
-62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm pin-PCB-offset 9.4mm
-0
-62
-62
-Connector_Dsub
-DSUB-62-HD_Male_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm
-62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
-62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x2.54mm pin-PCB-offset 9.4mm
-0
-62
-62
-Connector_Dsub
-DSUB-62-HD_Male_Vertical_P2.41x1.98mm_MountingHoles
-62-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.41x1.98mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
-62-pin D-Sub connector straight vertical THT male pitch 2.41x1.98mm mounting holes distance 63.5mm
-0
-64
-63
 Connector_FFC-FPC
 Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal
 Hirose FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
@@ -10786,699 +9659,6 @@ Wuerth FPC 68611214422 connector 12 bottom-side contacts 1.0mm pitch 1.0mm heigh
 0
 14
 13
-Connector_HDMI
-HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
-HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449
-HDMI Contact Technology Type A
-0
-23
-20
-Connector_HDMI
-HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle
-HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf
-hdmi type a
-0
-23
-20
-Connector_HDMI
-HDMI_Micro-D_Molex_46765-0x01
-HDMI, Micro, Type D, SMD, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
-hdmi micro type d right angle smd
-0
-23
-20
-Connector_HDMI
-HDMI_Micro-D_Molex_46765-1x01
-HDMI, Micro, Type D, THT, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
-hdmi micro type d right angle tht
-0
-23
-20
-Connector_HDMI
-HDMI_Micro-D_Molex_46765-2x0x
-HDMI, Micro, Type D, THT/SMD hybrid, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
-hdmi micro type d right angle tht smd hybrid 
-0
-23
-20
-Connector_Harwin
-Harwin_Gecko-G125-FVX0605L0X_2x03_P1.25mm_Vertical
-Harwin Gecko Connector, 6 pins, dual row female, vertical entry, PN:G125-FVX0605L0X
-connector harwin gecko
-0
-6
-6
-Connector_Harwin
-Harwin_Gecko-G125-FVX1005L0X_2x05_P1.25mm_Vertical
-Harwin Gecko Connector, 10 pins, dual row female, vertical entry, PN:G125-FVX1005L0X
-connector harwin gecko
-0
-10
-10
-Connector_Harwin
-Harwin_Gecko-G125-FVX1205L0X_2x06_P1.25mm_Vertical
-Harwin Gecko Connector, 12 pins, dual row female, vertical entry, PN:G125-FVX1205L0X
-connector harwin gecko
-0
-12
-12
-Connector_Harwin
-Harwin_Gecko-G125-FVX1605L0X_2x08_P1.25mm_Vertical
-Harwin Gecko Connector, 16 pins, dual row female, vertical entry, PN:G125-FVX1605L0X
-connector harwin gecko
-0
-16
-16
-Connector_Harwin
-Harwin_Gecko-G125-FVX2005L0X_2x10_P1.25mm_Vertical
-Harwin Gecko Connector, 20 pins, dual row female, vertical entry, PN:G125-FVX2005L0X
-connector harwin gecko
-0
-20
-20
-Connector_Harwin
-Harwin_Gecko-G125-FVX2605L0X_2x13_P1.25mm_Vertical
-Harwin Gecko Connector, 26 pins, dual row female, vertical entry, PN:G125-FVX2605L0X
-connector harwin gecko
-0
-26
-26
-Connector_Harwin
-Harwin_Gecko-G125-FVX3405L0X_2x17_P1.25mm_Vertical
-Harwin Gecko Connector, 34 pins, dual row female, vertical entry, PN:G125-FVX3405L0X
-connector harwin gecko
-0
-34
-34
-Connector_Harwin
-Harwin_Gecko-G125-FVX5005L0X_2x25_P1.25mm_Vertical
-Harwin Gecko Connector, 50 pins, dual row female, vertical entry, PN:G125-FVX5005L0X
-connector harwin gecko
-0
-50
-50
-Connector_Harwin
-Harwin_Gecko-G125-MVX0605L0X_2x03_P1.25mm_Vertical
-Harwin Gecko Connector, 6 pins, dual row male, vertical entry, no latches, PN:G125-MVX0605L0X
-connector harwin gecko
-0
-6
-6
-Connector_Harwin
-Harwin_Gecko-G125-MVX0605L1X_2x03_P1.25mm_Vertical
-Harwin Gecko Connector, 6 pins, dual row male, vertical entry, with latches, PN:G125-MVX0605L1X
-connector harwin gecko
-0
-6
-6
-Connector_Harwin
-Harwin_Gecko-G125-MVX1005L0X_2x05_P1.25mm_Vertical
-Harwin Gecko Connector, 10 pins, dual row male, vertical entry, no latches, PN:G125-MVX1005L0X
-connector harwin gecko
-0
-10
-10
-Connector_Harwin
-Harwin_Gecko-G125-MVX1005L1X_2x05_P1.25mm_Vertical
-Harwin Gecko Connector, 10 pins, dual row male, vertical entry, with latches, PN:G125-MVX1005L1X
-connector harwin gecko
-0
-10
-10
-Connector_Harwin
-Harwin_Gecko-G125-MVX1205L0X_2x06_P1.25mm_Vertical
-Harwin Gecko Connector, 12 pins, dual row male, vertical entry, no latches, PN:G125-MVX1205L0X
-connector harwin gecko
-0
-12
-12
-Connector_Harwin
-Harwin_Gecko-G125-MVX1205L1X_2x06_P1.25mm_Vertical
-Harwin Gecko Connector, 12 pins, dual row male, vertical entry, with latches, PN:G125-MVX1205L1X
-connector harwin gecko
-0
-12
-12
-Connector_Harwin
-Harwin_Gecko-G125-MVX1605L0X_2x08_P1.25mm_Vertical
-Harwin Gecko Connector, 16 pins, dual row male, vertical entry, no latches, PN:G125-MVX1605L0X
-connector harwin gecko
-0
-16
-16
-Connector_Harwin
-Harwin_Gecko-G125-MVX1605L1X_2x08_P1.25mm_Vertical
-Harwin Gecko Connector, 16 pins, dual row male, vertical entry, with latches, PN:G125-MVX1605L1X
-connector harwin gecko
-0
-16
-16
-Connector_Harwin
-Harwin_Gecko-G125-MVX2005L0X_2x10_P1.25mm_Vertical
-Harwin Gecko Connector, 20 pins, dual row male, vertical entry, no latches, PN:G125-MVX2005L0X
-connector harwin gecko
-0
-20
-20
-Connector_Harwin
-Harwin_Gecko-G125-MVX2005L1X_2x10_P1.25mm_Vertical
-Harwin Gecko Connector, 20 pins, dual row male, vertical entry, with latches, PN:G125-MVX2005L1X
-connector harwin gecko
-0
-20
-20
-Connector_Harwin
-Harwin_Gecko-G125-MVX2605L0X_2x13_P1.25mm_Vertical
-Harwin Gecko Connector, 26 pins, dual row male, vertical entry, no latches, PN:G125-MVX2605L0X
-connector harwin gecko
-0
-26
-26
-Connector_Harwin
-Harwin_Gecko-G125-MVX2605L1X_2x13_P1.25mm_Vertical
-Harwin Gecko Connector, 26 pins, dual row male, vertical entry, with latches, PN:G125-MVX2605L1X
-connector harwin gecko
-0
-26
-26
-Connector_Harwin
-Harwin_Gecko-G125-MVX3405L0X_2x17_P1.25mm_Vertical
-Harwin Gecko Connector, 34 pins, dual row male, vertical entry, no latches, PN:G125-MVX3405L0X
-connector harwin gecko
-0
-34
-34
-Connector_Harwin
-Harwin_Gecko-G125-MVX3405L1X_2x17_P1.25mm_Vertical
-Harwin Gecko Connector, 34 pins, dual row male, vertical entry, with latches, PN:G125-MVX3405L1X
-connector harwin gecko
-0
-34
-34
-Connector_Harwin
-Harwin_Gecko-G125-MVX5005L0X_2x25_P1.25mm_Vertical
-Harwin Gecko Connector, 50 pins, dual row male, vertical entry, no latches, PN:G125-MVX5005L0X
-connector harwin gecko
-0
-50
-50
-Connector_Harwin
-Harwin_Gecko-G125-MVX5005L1X_2x25_P1.25mm_Vertical
-Harwin Gecko Connector, 50 pins, dual row male, vertical entry, with latches, PN:G125-MVX5005L1X
-connector harwin gecko
-0
-50
-50
-Connector_Harwin
-Harwin_LTek-Male_02_P2.00mm_Vertical
-Harwin LTek Connector, 2 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-2
-2
-Connector_Harwin
-Harwin_LTek-Male_02_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 2 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-6
-2
-Connector_Harwin
-Harwin_LTek-Male_2x02_P2.00mm_Vertical
-Harwin LTek Connector, 4 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-4
-4
-Connector_Harwin
-Harwin_LTek-Male_2x02_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 4 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-8
-4
-Connector_Harwin
-Harwin_LTek-Male_2x03_P2.00mm_Vertical
-Harwin LTek Connector, 6 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-6
-6
-Connector_Harwin
-Harwin_LTek-Male_2x03_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 6 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-10
-6
-Connector_Harwin
-Harwin_LTek-Male_2x04_P2.00mm_Vertical
-Harwin LTek Connector, 8 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-8
-8
-Connector_Harwin
-Harwin_LTek-Male_2x04_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 8 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-12
-8
-Connector_Harwin
-Harwin_LTek-Male_2x05_P2.00mm_Vertical
-Harwin LTek Connector, 10 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-10
-10
-Connector_Harwin
-Harwin_LTek-Male_2x05_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 10 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-14
-10
-Connector_Harwin
-Harwin_LTek-Male_2x06_P2.00mm_Vertical
-Harwin LTek Connector, 12 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-12
-12
-Connector_Harwin
-Harwin_LTek-Male_2x06_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 12 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-16
-12
-Connector_Harwin
-Harwin_LTek-Male_2x07_P2.00mm_Vertical
-Harwin LTek Connector, 14 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-14
-14
-Connector_Harwin
-Harwin_LTek-Male_2x07_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 14 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-18
-14
-Connector_Harwin
-Harwin_LTek-Male_2x08_P2.00mm_Vertical
-Harwin LTek Connector, 16 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-16
-16
-Connector_Harwin
-Harwin_LTek-Male_2x08_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 16 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-20
-16
-Connector_Harwin
-Harwin_LTek-Male_2x09_P2.00mm_Vertical
-Harwin LTek Connector, 18 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-18
-18
-Connector_Harwin
-Harwin_LTek-Male_2x09_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 18 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-22
-18
-Connector_Harwin
-Harwin_LTek-Male_2x10_P2.00mm_Vertical
-Harwin LTek Connector, 20 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-20
-20
-Connector_Harwin
-Harwin_LTek-Male_2x10_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 20 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-24
-20
-Connector_Harwin
-Harwin_LTek-Male_2x13_P2.00mm_Vertical
-Harwin LTek Connector, 26 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-26
-26
-Connector_Harwin
-Harwin_LTek-Male_2x13_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 26 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-30
-26
-Connector_Harwin
-Harwin_LTek-Male_2x17_P2.00mm_Vertical
-Harwin LTek Connector, 34 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-34
-34
-Connector_Harwin
-Harwin_LTek-Male_2x17_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 34 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-38
-34
-Connector_Harwin
-Harwin_LTek-Male_2x22_P2.00mm_Vertical
-Harwin LTek Connector, 44 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-44
-44
-Connector_Harwin
-Harwin_LTek-Male_2x22_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 44 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-48
-44
-Connector_Harwin
-Harwin_LTek-Male_03_P2.00mm_Vertical
-Harwin LTek Connector, 3 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-3
-3
-Connector_Harwin
-Harwin_LTek-Male_03_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 3 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-7
-3
-Connector_Harwin
-Harwin_LTek-Male_04_P2.00mm_Vertical
-Harwin LTek Connector, 4 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-4
-4
-Connector_Harwin
-Harwin_LTek-Male_04_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 4 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-8
-4
-Connector_Harwin
-Harwin_LTek-Male_05_P2.00mm_Vertical
-Harwin LTek Connector, 5 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-5
-5
-Connector_Harwin
-Harwin_LTek-Male_05_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 5 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-9
-5
-Connector_Harwin
-Harwin_LTek-Male_06_P2.00mm_Vertical
-Harwin LTek Connector, 6 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-6
-6
-Connector_Harwin
-Harwin_LTek-Male_06_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 6 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-10
-6
-Connector_Harwin
-Harwin_LTek-Male_07_P2.00mm_Vertical
-Harwin LTek Connector, 7 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-7
-7
-Connector_Harwin
-Harwin_LTek-Male_07_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 7 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-11
-7
-Connector_Harwin
-Harwin_LTek-Male_17_P2.00mm_Vertical
-Harwin LTek Connector, 17 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-17
-17
-Connector_Harwin
-Harwin_LTek-Male_17_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 17 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-21
-17
-Connector_Harwin
-Harwin_LTek-Male_22_P2.00mm_Vertical
-Harwin LTek Connector, 22 pins, single row male, vertical entry
-connector harwin ltek M80
-0
-22
-22
-Connector_Harwin
-Harwin_LTek-Male_22_P2.00mm_Vertical_StrainRelief
-Harwin LTek Connector, 22 pins, single row male, vertical entry, strain relief clip
-connector harwin ltek M80
-0
-26
-22
-Connector_Harwin
-Harwin_M20-89003xx_1x03_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89003xx, 3 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-4
-3
-Connector_Harwin
-Harwin_M20-89004xx_1x04_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89004xx, 4 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-5
-4
-Connector_Harwin
-Harwin_M20-89005xx_1x05_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89005xx, 5 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-6
-5
-Connector_Harwin
-Harwin_M20-89006xx_1x06_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89006xx, 6 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-7
-6
-Connector_Harwin
-Harwin_M20-89007xx_1x07_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89007xx, 7 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-8
-7
-Connector_Harwin
-Harwin_M20-89008xx_1x08_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89008xx, 8 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-9
-8
-Connector_Harwin
-Harwin_M20-89009xx_1x09_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89009xx, 9 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-10
-9
-Connector_Harwin
-Harwin_M20-89010xx_1x10_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89010xx, 10 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-11
-10
-Connector_Harwin
-Harwin_M20-89011xx_1x11_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89011xx, 11 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-12
-11
-Connector_Harwin
-Harwin_M20-89012xx_1x12_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89012xx, 12 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-13
-12
-Connector_Harwin
-Harwin_M20-89013xx_1x13_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89013xx, 13 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-14
-13
-Connector_Harwin
-Harwin_M20-89014xx_1x14_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89014xx, 14 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-15
-14
-Connector_Harwin
-Harwin_M20-89015xx_1x15_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89015xx, 15 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-16
-15
-Connector_Harwin
-Harwin_M20-89016xx_1x16_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89016xx, 16 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-17
-16
-Connector_Harwin
-Harwin_M20-89017xx_1x17_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89017xx, 17 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-18
-17
-Connector_Harwin
-Harwin_M20-89018xx_1x18_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89018xx, 18 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-19
-18
-Connector_Harwin
-Harwin_M20-89019xx_1x19_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89019xx, 19 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-20
-19
-Connector_Harwin
-Harwin_M20-89020xx_1x20_P2.54mm_Horizontal
-Harwin Male Horizontal Surface Mount Single Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-89020xx, 20 Pins per row (https://cdn.harwin.com/pdfs/M20-890.pdf), generated with kicad-footprint-generator
-connector Harwin M20-890 horizontal
-0
-21
-20
-Connector_Harwin
-Harwin_M20-7810245_2x02_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810245, 2 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-4
-4
-Connector_Harwin
-Harwin_M20-7810345_2x03_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810345, 3 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-6
-6
-Connector_Harwin
-Harwin_M20-7810445_2x04_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810445, 4 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-8
-8
-Connector_Harwin
-Harwin_M20-7810545_2x05_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810545, 5 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-10
-10
-Connector_Harwin
-Harwin_M20-7810645_2x06_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810645, 6 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-12
-12
-Connector_Harwin
-Harwin_M20-7810745_2x07_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810745, 7 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-14
-14
-Connector_Harwin
-Harwin_M20-7810845_2x08_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810845, 8 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-16
-16
-Connector_Harwin
-Harwin_M20-7810945_2x09_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7810945, 9 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-18
-18
-Connector_Harwin
-Harwin_M20-7811045_2x10_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7811045, 10 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-20
-20
-Connector_Harwin
-Harwin_M20-7811245_2x12_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7811245, 12 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-24
-24
-Connector_Harwin
-Harwin_M20-7811545_2x15_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7811545, 15 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-30
-30
-Connector_Harwin
-Harwin_M20-7812045_2x20_P2.54mm_Vertical
-Harwin Female Vertical Surface Mount Double Row 2.54mm (0.1 inch) Pitch PCB Connector, M20-7812045, 20 Pins per row (https://cdn.harwin.com/pdfs/M20-781.pdf), generated with kicad-footprint-generator
-connector Harwin M20 side entry
-0
-40
-40
 Connector_Hirose
 Hirose_BM24_BM24-40DP-2-0.35V_2x20_P0.35mm_PowerPin2_Vertical
 Hirose BM24 series connector, BM24-40DP/2-0.35V (https://www.hirose.com/product/en/download_file/key_name/BM24/category/Catalog/doc_file_id/47680/?file_category_id=4&item_id=50&is_series=1)
@@ -41054,209 +39234,6 @@ Surface mounted socket strip SMD 2x40 2.54mm double row
 0
 80
 80
-Connector_RJ
-RJ12_Amphenol_54601
-RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf
-RJ12 connector
-0
-6
-6
-Connector_RJ
-RJ14_Connfly_DS1133-S4_Horizontal
-RJ14 connector 6P4C Horizontal http://www.connfly.com/userfiles/image/UpLoadFile/File/2012/10/26/DS1133.pdf
-RJ14 connector 6P4C Connfly DS1133
-0
-4
-4
-Connector_RJ
-RJ25_Wayconn_MJEA-660X1_Horizontal
-RJ25 6P6C Socket 90 degrees, https://wayconn.com/wp-content/themes/way/datasheet/MJEA-660X1XXX_RJ25_6P6C_PCB_RA.pdf
-RJ12 RJ18 RJ25 jack connector 6P6C
-0
-6
-6
-Connector_RJ
-RJ45_Abracon_ARJP11A-MA_Horizontal
-Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)
-ethernet 8p8c transformer poe rj45
-0
-15
-14
-Connector_RJ
-RJ45_Amphenol_54602-x08_Horizontal
-8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)
-RJ45
-0
-8
-8
-Connector_RJ
-RJ45_Amphenol_RJHSE538X
-Shielded, 2 LED, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
-RJ45 8p8c ethernet cat5
-0
-14
-13
-Connector_RJ
-RJ45_Amphenol_RJHSE538X-02
-Shielded, 2 LED, 2 Ports, http://www.amphenolinfocom.eu/NavData/Drawings/RJHSE-538X-02-REVC.pdf
-RJ45 8p8c dual ethernet cat5
-0
-26
-25
-Connector_RJ
-RJ45_Amphenol_RJHSE5380
-Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
-RJ45 8p8c ethernet cat5
-0
-10
-9
-Connector_RJ
-RJ45_Amphenol_RJHSE5380-08
-Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X08.pdf
-RJ45 8p8c ethernet cat5
-0
-68
-65
-Connector_RJ
-RJ45_Amphenol_RJMG1BD3B8K1ANR
-1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
-RJ45 Magjack
-0
-14
-13
-Connector_RJ
-RJ45_BEL_SS74301-00x_Vertical
-https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-74301-001-ss-74301-002-ss-74301-005.pdf
-RJ45 Vertical Shield LED Green Yellow
-0
-14
-13
-Connector_RJ
-RJ45_Bel_SI-60062-F
-1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf
-RJ45 Magjack
-0
-14
-13
-Connector_RJ
-RJ45_Cetus_J1B1211CCD_Horizontal
-1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, Cetus, used and distributed by WIZnet (https://wizwiki.net/wiki/lib/exe/fetch.php?media=products:wiz550web:wiz550webds_kr:j1b1211ccd.pdf)
-RJ45 Magjack
-0
-14
-13
-Connector_RJ
-RJ45_Hanrun_HR911105A
-http://www.kosmodrom.com.ua/pdf/HR911105A.pdf
-RJ45 Magjack
-0
-14
-13
-Connector_RJ
-RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal
-10/100Base-T RJ45 ethernet magnetic transformer connector horizontal with green/yellow LEDs http://www.kycon.com/Pub_Eng_Draw/G7LX-A88S7-BP-GY.pdf
-RJ45 ethernet magnetic
-0
-16
-15
-Connector_RJ
-RJ45_Molex_0855135013_Vertical
-1 Port, RJ45, Series 85513, vertical, SMD, https://www.molex.com/pdm_docs/sd/855135013_sd.pdf
-RJ45 Vertical
-0
-9
-9
-Connector_RJ
-RJ45_Ninigi_GE
-1 port ethernet throughhole connector, https://en.ninigi.com/product/rj45ge/pdf
-RJ45 ethernet 8p8c
-0
-10
-9
-Connector_RJ
-RJ45_OST_PJ012-8P8CX_Vertical
-RJ45 vertical connector https://www.on-shore.com/wp-content/uploads/PJ012-8P8CX.pdf
-RJ45 PJ012
-0
-8
-8
-Connector_RJ
-RJ45_Plug_Metz_AJP92A8813
-plug, ethernet, 8P8C, RJ45 Plug
-AJP92A8813 8P8C RJ45 ethernet plug
-0
-8
-8
-Connector_RJ
-RJ45_Pulse_JK0654219NL_Horizontal
-10/100/1000 Base-T RJ45 single port with LEDs https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf#page=2
-RJ45 8p8c ethernet
-0
-18
-17
-Connector_RJ
-RJ45_Pulse_JXD6-0001NL_Horizontal
-RJ45 ethernet transformer with magnetics (https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/JXD6-0001NL/doc_part/JXD6-0001NL.pdf)
-ethernet 8p8c transformer magjack
-0
-12
-11
-Connector_RJ
-RJ45_UDE_RB1-125B8G1A
-1 Port RJ45 Connector Through Hole 10/100/1000 Base-T, https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3
-RJ45 ethernet
-0
-16
-15
-Connector_RJ
-RJ45_Wuerth_7499010001A_Horizontal
-10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal https://katalog.we-online.de/pbs/datasheet/7499010001A.pdf
-RJ45 ethernet magnetic
-0
-10
-9
-Connector_RJ
-RJ45_Wuerth_7499010121A_Horizontal
-10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal with green/orange LEDs https://katalog.we-online.de/pbs/datasheet/7499010121A.pdf
-RJ45 ethernet magnetic
-0
-14
-13
-Connector_RJ
-RJ45_Wuerth_7499111446_Horizontal
-LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT
-ethernet lan connector
-0
-16
-15
-Connector_RJ
-RJ45_Wuerth_7499151120_Horizontal
-Wuerth 7499151120, LAN-Transformer WE-RJ45LAN 10/100/1000 BaseT, Dual Ethernet Jack (http://katalog.we-online.de/pbs/datasheet/7499151120.pdf)
-ethernet lan connector
-0
-32
-29
-Connector_RJ
-RJ45_Wuerth_74980111211_Horizontal
-RJ45 LAN Transformer 10/100BaseT (https://katalog.we-online.de/pbs/datasheet/74980111211.pdf)
-lan magnetics transformer
-0
-14
-13
-Connector_SATA_SAS
-SAS-mini_TEConnectivity_1888174_Vertical
-36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English
-SAS mini connector
-0
-44
-44
-Connector_SATA_SAS
-SATA_Amphenol_10029364-001LF_Horizontal
-https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029364.pdf
-SATA
-0
-24
-23
 Connector_Samtec
 Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
 http://suddendocs.samtec.com/prints/asp-134486-01-mkt.pdf
@@ -50609,636 +48586,6 @@ Vishay KBU rectifier diode bridge
 0
 4
 4
-Display
-AG12864E
-STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
-AG12864E Graphics Display 128x64 Ampire
-0
-24
-20
-Display
-Adafruit_SSD1306
-Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
-Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
-0
-8
-8
-Display
-Adafruit_SSD1306_No_Mounting_Holes
-Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
-Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
-0
-8
-8
-Display
-CR2013-MI2120
-CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990
-CR2013-MI2120 ILI9341 LCD Breakout
-0
-18
-14
-Display
-EA-eDIP128B-XXX
-LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf
-LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI
-0
-32
-32
-Display
-EA_DOGL128-6
-Graphical,Display,LCD,128x64 https://www.lcd-module.com/eng/pdf/grafik/dogl128-6e.pdf
-EA DOGL128
-0
-26
-26
-Display
-EA_DOGM128-6
-Graphical,Display,LCD,128x64 https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf
-EA DOGM128-6
-0
-26
-26
-Display
-EA_DOGS104X-A
-LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
-LCD 4x10 character 3.3V VDD I2C or SPI
-0
-14
-14
-Display
-EA_DOGXL160-7
-Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
-EA_DOGXL160-7
-0
-22
-22
-Display
-EA_DOGXL160-7_Backlight
-Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
-EA_DOGXL160-7_Backlight
-0
-22
-22
-Display
-EA_T123X-I2C
-http://www.lcd-module.de/pdf/doma/t123-i2c.pdf
-3 Line 12 character wide alpha numeric LCD
-0
-6
-6
-Display
-EA_eDIP160-XXX
-LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf
-LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI
-0
-40
-40
-Display
-EA_eDIP240-XXX
-LCD graphical display LED backlight 240x128 http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip240-7e.pdf
-LCD graphical display LED backlight 240x128
-0
-40
-40
-Display
-EA_eDIP320X-XXX
-LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf
-LCD display 320x340 RS-232 I2C or SPI
-0
-48
-48
-Display
-EA_eDIPTFT32-XXX
-TFT-graphic display 320x240 16 bit colour with led backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft32-ae.pdf
-TFT-graphic display 320x240 16 bit colour with led backlight
-0
-40
-40
-Display
-EA_eDIPTFT43-ATC
-http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf
-TFT graphical display 480x272 16-bit colour with LED backlight
-0
-40
-40
-Display
-EA_eDIPTFT43-XXX
-TFT graphical display 480x272 16-bit colour with LED backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf
-TFT graphical display 480x272 16-bit colour with LED backlight
-0
-40
-40
-Display
-EA_eDIPTFT57-XXX
-http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft57-ae.pdf
-TFT-graphic display 640x480 16 bit colour
-0
-48
-48
-Display
-EA_eDIPTFT70-ATC
-TFT-graphical display 800x480 16-bit colours with capacitive touch panel http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
-TFT-graphical display 800x480 16-bit colours with capacitive touch panel
-0
-48
-48
-Display
-EA_eDIPTFT70-XXX
-TFT-graphical display 800x480 16-bit colours http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
-TFT-graphical display 800x480 16-bit colours and touch display
-0
-48
-48
-Display
-ERM19264
-STN/FSTN LCD 192x64 dot https://www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf
-ERM19264 Graphics Display 192x64
-0
-20
-20
-Display
-HDSM-441B_HDSM-443B
-2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN
-2 Digit 7 segment blue LED
-0
-10
-10
-Display
-HDSM-541B_HDSM-543B
-2 digit 7 segement blue LED with right hand decimal, https://docs.broadcom.com/docs/AV02-1588EN
-2 digit 7 segement blue LED with right hand decimal
-0
-10
-10
-Display
-HDSP-48xx
-10-Element Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Bar Graph Array
-0
-20
-20
-Display
-HDSP-4830
-10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Bar Graph Array
-0
-20
-20
-Display
-HDSP-4832
-10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Yellow Green Bar Graph Array
-0
-20
-20
-Display
-HDSP-4836
-10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Yellow Green Bar Graph Array
-0
-20
-20
-Display
-HDSP-4840
-10-Element Yellow Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Yellow Bar Graph Array
-0
-20
-20
-Display
-HDSP-4850
-10-Element Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Green Bar Graph Array
-0
-20
-20
-Display
-HLCP-J100
-10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
-10-Element Red Bar Graph Array
-0
-20
-20
-Display
-HY1602E
-http://www.icbank.com/data/ICBShop/board/HY1602E.pdf
-LCD 16x2 Alphanumeric 16pin
-0
-20
-16
-Display
-LCD-016N002L
-16 x 2 Character LCD, http://www.vishay.com/product?docid=37299
-LCD-016N002L 16 x 2 Character LCD
-0
-24
-20
-Display
-LM16255
-LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html
-LCD 12x2
-0
-14
-14
-Display
-NHD-0420H1Z
-NHD-0420H1Z LCD http://www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf
-NHD-0420H1Z LCD
-0
-16
-16
-Display
-NHD-C0220BiZ
-NHD-C0220BiZ LCD http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf
-NHD-C0220BiZ LCD
-0
-10
-10
-Display
-OLED-128O064D
-128x64 OLED display
-display oled
-0
-30
-30
-Display
-RC1602A
-http://www.raystar-optronics.com/down.php?ProID=18
-LCD 16x2 Alphanumeric 16pin
-0
-22
-18
-Display
-WC1602A
-LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
-LCD 16x2 Alphanumeric 16pin
-0
-20
-16
-Display_7Segment
-7SEGMENT-LED__HDSM531_HDSM533_SMD
-7-Segment Display, HDSM53x, https://docs.broadcom.com/docs/AV02-0713EN
-7segment LED HDSM531 HDSM533
-0
-10
-10
-Display_7Segment
-7SegmentLED_LTS6760_LTS6780
-7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf
-7Segment LED LTS6760 LTS6780
-0
-10
-10
-Display_7Segment
-AD-121F2
-Single Digit 7-segment RGB LED Display, 1-inch digit height, common anode, http://usasyck.com/products/AD-121F2_cat_e.pdf
-RGB LED digit
-0
-22
-22
-Display_7Segment
-AFF_2x7SEG-DIGIT_10mm
-Afficheur 7 segments 10mm DIGIT
-AFFICHEUR
-0
-16
-16
-Display_7Segment
-CA56-12CGKWA
-4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12CGKWA(Ver.9A).pdf
-4 digit 7 segment green LED
-0
-12
-12
-Display_7Segment
-CA56-12EWA
-4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CA56-12EWA.pdf
-4 digit 7 segment green LED
-0
-12
-12
-Display_7Segment
-CA56-12SEKWA
-4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12SEKWA(Ver.7A).pdf
-4 digit 7 segment green LED
-0
-12
-12
-Display_7Segment
-CA56-12SRWA
-4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CA56-12SRWA.pdf
-4 digit 7 segment green LED
-0
-12
-12
-Display_7Segment
-CA56-12SURKWA
-4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12SURKWA(Ver.8A).pdf
-4 digit 7 segment green LED
-0
-12
-12
-Display_7Segment
-CA56-12SYKWA
-4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12SYKWA(Ver.6A).pdf
-4 digit 7 segment green LED
-0
-12
-12
-Display_7Segment
-CC56-12GWA
-4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CA56-11GWA.pdf
-4 digit 7 segment green LED
-0
-12
-12
-Display_7Segment
-CC56-12YWA
-4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12YWA.pdf
-4 digit 7 segment green LED
-0
-12
-12
-Display_7Segment
-D1X8K
-https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf
-Single digit 7 segment ultra bright red
-0
-10
-10
-Display_7Segment
-DA04-11CGKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11CGKWA(Ver.6A).pdf
-Dubble digit green 7 segment LED display
-0
-16
-16
-Display_7Segment
-DA04-11SEKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SEKWA(Ver.9A).pdf
-Dubble digit super bright orange 7 segment LED display
-0
-16
-16
-Display_7Segment
-DA04-11SURKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SURKWA(Ver.10A).pdf
-Dubble digit hyper red 7 segment LED display
-0
-16
-16
-Display_7Segment
-DA04-11SYKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SYKWA(Ver.6A).pdf
-Dubble digit super bright yellow 7 segment LED display
-0
-16
-16
-Display_7Segment
-DA56-11CGKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11CGKWA(Ver.16A).pdf
-Double digit seven segment green LED display
-0
-18
-18
-Display_7Segment
-DA56-11SEKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SEKWA(Ver.9A).pdf
-Double digit seven segment super bright orange LED display
-0
-18
-18
-Display_7Segment
-DA56-11SURKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SURKWA(Ver.11A).pdf
-Double digit seven segment hyper red LED display
-0
-18
-18
-Display_7Segment
-DA56-11SYKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/DA56-11SYKWA(Ver.11A).pdf
-Double digit seven segment super bright yellow LED display
-0
-18
-18
-Display_7Segment
-DE113-XX-XX
-http://www.display-elektronik.de/filter/DE113-RS-20_635.pdf
-3 1/5 digit LOW BAT + 7-Segment LCD
-0
-40
-40
-Display_7Segment
-DE114-RS-20
-http://www.display-elektronik.de/filter/DE113-RS-20_635.pdf
-3 1/5 digit reflective LCD LOW-BAT + 7-Segment
-0
-40
-40
-Display_7Segment
-DE119-XX-XX
-https://www.display-elektronik.de/filter/DE119-RS-20_635.pdf
-4 digit 7 segment LCD 
-0
-40
-40
-Display_7Segment
-DE122-XX-XX
-http://www.display-elektronik.de/filter/DE122-RS-20_635.pdf
-6 digit 7 segment LCD 
-0
-50
-50
-Display_7Segment
-DE170-XX-XX
-http://www.display-elektronik.de/filter/DE170-RS-20_75.pdf
-3 1/5 digit reflective arrow bat + 7 segment LCD 
-0
-40
-40
-Display_7Segment
-ELD_426XXXX
-http://www.everlight.com/file/ProductFile/D426SYGWA-S530-E2.pdf
-Double digit 7 segment brilliant yellow green LED
-0
-10
-10
-Display_7Segment
-HDSP-7401
-One digit 7 segment yellow, https://docs.broadcom.com/docs/AV02-2553EN
-One digit 7 segment yellow
-0
-10
-10
-Display_7Segment
-HDSP-7507
-+-1 overflow 7 segment high efficiency red, https://docs.broadcom.com/docs/AV02-2553EN
-+-1 overflow 7 segment high efficiency red
-0
-10
-10
-Display_7Segment
-HDSP-7801
-One digit 7 segment green, https://docs.broadcom.com/docs/AV02-2553EN
-One digit 7 segment green
-0
-10
-10
-Display_7Segment
-HDSP-7807
-+-1 overflow 7 segment green, https://docs.broadcom.com/docs/AV02-2553EN
-+-1 overflow 7 segment green
-0
-10
-10
-Display_7Segment
-HDSP-A151
-One digit 7 segment red, https://docs.broadcom.com/docs/AV02-2553EN
-One digit 7 segment high efficiency red
-0
-10
-10
-Display_7Segment
-HDSP-A401
-One digit 7 segment orange, common anode, https://docs.broadcom.com/docs/AV02-2553EN
-One digit 7 segment orange common anode
-0
-10
-10
-Display_7Segment
-KCSC02-105
-http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-105(Ver.9A).pdf
-Single digit 7 segement hyper red LED
-0
-10
-10
-Display_7Segment
-KCSC02-106
-http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-106(Ver.10A).pdf
-Single digit 7 segement super bright orange LED
-0
-10
-10
-Display_7Segment
-KCSC02-107
-http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-107(Ver.9A).pdf
-Single digit 7 segement super bright yellow LED
-0
-10
-10
-Display_7Segment
-KCSC02-123
-http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-123(Ver.10A).pdf
-Single digit 7 segement super bright yellow LED
-0
-10
-10
-Display_7Segment
-KCSC02-136
-http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-136(Ver.6B).pdf
-Single digit 7 segement super bright yellow LED
-0
-10
-10
-Display_7Segment
-LTC-4627Jx
-http://optoelectronics.liteon.com/upload/download/DS30-2001-393/C4627JG.pdf
-4 digit 7 segment LED
-0
-14
-14
-Display_7Segment
-MAN71A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-One digit 7 segment red LED with right dot
-0
-14
-14
-Display_7Segment
-MAN72A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-One digit 7 segment red LED with left dot
-0
-14
-14
-Display_7Segment
-MAN73A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-Overflow +- 1 red LED
-0
-14
-14
-Display_7Segment
-MAN3410A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-One digit 7 segment green LED with dot
-0
-14
-14
-Display_7Segment
-MAN3420A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-One digit 7 segment green LED with left dot
-0
-14
-14
-Display_7Segment
-MAN3610A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-One digit 7 segment orange LED with right dot
-0
-14
-14
-Display_7Segment
-MAN3620A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-One digit 7 segment orange LED with left dot
-0
-14
-14
-Display_7Segment
-MAN3630A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-Overflow +- 1 orange LED
-0
-14
-14
-Display_7Segment
-MAN3810A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-One digit 7 segment yellow LED with right dot
-0
-14
-14
-Display_7Segment
-MAN3820A
-https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
-One digit 7 segment yellow LED with left dot
-0
-14
-14
-Display_7Segment
-SA15-11xxx
-http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf
-SA15-11xxx single digit 7 segment display 38.1mm 1.5inch
-0
-10
-10
-Display_7Segment
-SBC18-11SURKCGKWA
-http://www.kingbright.com/attachments/file/psearch/000/00/00/SBC18-11SURKCGKWA(Ver.6A).pdf
-single digit 7 segemnt red/green LED
-0
-10
-10
-Display_7Segment
-Sx39-1xxxxx
-Single digit 7 segment LED display in red, yellow or green colour http://www.kingbrightusa.com/images/catalog/SPEC/sa39-11ewa.pdf
-One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
-0
-10
-10
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -51246,62 +48593,6 @@ Ferrite vertical LairdTech 28C0236-0JW-10
 0
 2
 2
-Fiducial
-Fiducial_0.5mm_Mask1.5mm
-Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_0.5mm_Mask1mm
-Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_0.75mm_Mask1.5mm
-Circular Fiducial, 0.75mm bare copper, 1.5mm soldermask opening (Level B)
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_0.75mm_Mask2.25mm
-Circular Fiducial, 0.75mm bare copper, 2.25mm soldermask opening
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_1.5mm_Mask3mm
-Circular Fiducial, 1.5mm bare copper, 3mm soldermask opening
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_1.5mm_Mask4.5mm
-Circular Fiducial, 1.5mm bare copper, 4.5mm soldermask opening
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_1mm_Mask2mm
-Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
-fiducial
-0
-1
-0
-Fiducial
-Fiducial_1mm_Mask3mm
-Circular Fiducial, 1mm bare copper, 3mm soldermask opening (recommended)
-fiducial
-0
-1
-0
 Filter
 Filter_1109-5_1.1x0.9mm
 5-pin SAW filter package - 1.1x0.9 mm Body; (see https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en-gb)
@@ -52107,104 +49398,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-Heatsink
-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
-Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
-heatsink
-0
-1
-1
-Heatsink
-Heatsink_38x38mm_SpringFixation
-Heatsink, 38x38mm, Spring Fixation, diagonal,
-heatsink
-0
-4
-1
-Heatsink
-Heatsink_62x40mm_2xFixation3mm
-Heatsink, 62 x 40mm, 2x 3mm Drills,
-heatsink
-0
-2
-1
-Heatsink
-Heatsink_125x35x50mm_3xFixationM3
-Heatsink, 125x35x50mm, 3 fixation holes 3.2mm
-heatsink
-0
-0
-0
-Heatsink
-Heatsink_AAVID_573300D00010G_TO-263
-Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.shopaavid.com/Product/573300D00000G
-Heatsink AAVID TO-263 D2 Pak
-0
-2
-1
-Heatsink
-Heatsink_Aavid-TV5G_TO220_Horizontal
-Heatsink TV5G TO-220 Horizontal, https://www.shopaavid.com/Product/TV-5G
-Heatsink TV5G TO-220 Horizontal 
-0
-0
-0
-Heatsink
-Heatsink_Fischer_FK224xx2201_25x8.3mm
-25x8.3mm Heatsink, 18K/W, TO-220, https://www.fischerelektronik.de/web_fischer/en_GB/$catalogue/fischerData/PR/FK224_220_1_/datasheet.xhtml?branch=heatsinks
-heatsink TO-220
-0
-2
-1
-Heatsink
-Heatsink_Fischer_FK24413D2PAK_26x13mm
-26x13 mm SMD heatsink for TO-252 TO-263 TO-268, https://www.fischerelektronik.de/pim/upload/fischerData/cadpdf/base/fk_244_13_d2_pak.pdf
-heatsink TO-252 TO-263 TO-268
-0
-2
-1
-Heatsink
-Heatsink_Fischer_FK24413DPAK_23x13mm
-23x13 mm SMD heatsink for TO-252 TO-263 TO-268, https://www.fischerelektronik.de/pim/upload/fischerData/cadpdf/base/fk_244_13_d_pak.pdf
-heatsink TO-252 TO-263 TO-268
-0
-2
-1
-Heatsink
-Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm
-Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,
-Heatsink fischer TO-220
-0
-2
-1
-Heatsink
-Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3
-Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,
-Heatsink fischer TO-220
-0
-2
-1
-Heatsink
-Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm
-Heatsink, Fischer SK129
-heatsink fischer
-0
-2
-1
-Heatsink
-Heatsink_SheetType_50x7mm_2Fixations
-Heatsink, Sheet type, 50x7mm, 2 fixations (solder),
-Heatsink sheet
-0
-2
-1
-Heatsink
-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
-Heatsink, StoneCold HS
-heatsink
-0
-2
-1
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -60297,6 +57490,720 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+Package_CSP
+Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm
+LFCSP, exposed pad, Analog Devices (http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf)
+LFCSP 8 0.5
+0
+12
+5
+Package_CSP
+LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm
+LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/57080735642908cp_8_4.pdf
+LFCSP 8pin thermal pad 3x2mm Pitch 0.5mm
+0
+9
+9
+Package_CSP
+LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm
+LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_11.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+13
+9
+Package_CSP
+LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm_ThermalVias
+LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_11.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+20
+9
+Package_CSP
+LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm
+LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-8/CP_8_13.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+13
+9
+Package_CSP
+LFCSP-8_2x2mm_P0.5mm
+LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_8_6.pdf
+LFCSP 8pin 2x2mm Pitch 0.5mm
+0
+8
+8
+Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_21.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_21.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+26
+17
+Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_22.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_22.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+26
+17
+Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+26
+17
+Package_CSP
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm
+16-Lead Lead Frame Chip Scale Package, 3x3mm, 0.5mm pitch, 1.854mm thermal pad (CP-16-22, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_16_22.pdf)
+LFCSP 16 0.5
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
+LFCSP, 16 pin, 4x4mm, 2.1mm sq pad (http://www.analog.com/media/en/technical-documentation/data-sheets/ADG633.pdf)
+LFCSP 16 0.65
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+31
+17
+Package_CSP
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
+20-Lead Frame Chip Scale Package - 4x4x0.9 mm Body [LFCSP], (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_20_6.pdf)
+LFCSP 0.5
+0
+25
+21
+Package_CSP
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
+LFCSP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+LFCSP DFN_QFN
+0
+25
+21
+Package_CSP
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+LFCSP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+LFCSP DFN_QFN
+0
+35
+21
+Package_CSP
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+LFCSP, 20 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-20/CP_20_8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+25
+21
+Package_CSP
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
+LFCSP, 20 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-20/CP_20_8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+35
+21
+Package_CSP
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+29
+25
+Package_CSP
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+39
+25
+Package_CSP
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+29
+25
+Package_CSP
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+39
+25
+Package_CSP
+LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm
+LFCSP, 28 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-28/CP_28_10.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+33
+29
+Package_CSP
+LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias
+LFCSP, 28 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-28/CP_28_10.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+43
+29
+Package_CSP
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm
+LFCSP, 32 Pin (https://www.analog.com/media/en/package-pcb-resources/package/414143737956480539664569cp_32_2.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+42
+33
+Package_CSP
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
+LFCSP, 32 Pin (https://www.analog.com/media/en/package-pcb-resources/package/414143737956480539664569cp_32_2.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+59
+33
+Package_CSP
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm
+LFCSP, 32 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7280.PDF#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+37
+33
+Package_CSP
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm_ThermalVias
+LFCSP, 32 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7280.PDF#page=28), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+47
+33
+Package_CSP
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm
+32-Lead Frame Chip Scale Package LFCSP (5mm x 5mm); (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-32/CP_32_27.pdf
+LFCSP 0.5
+0
+37
+33
+Package_CSP
+LFCSP-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm
+LFCSP, 48 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_48_5.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+58
+49
+Package_CSP
+LFCSP-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+LFCSP, 48 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_48_5.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+75
+49
+Package_CSP
+LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm
+LFCSP, 64 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+69
+65
+Package_CSP
+LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm_ThermalVias
+LFCSP, 64 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+86
+65
+Package_CSP
+LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm
+LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+82
+73
+Package_CSP
+LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm_ThermalVias
+LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+99
+73
+Package_CSP
+LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm
+72-Lead Frame Chip Scale Package - 10x10x0.9 mm Body [LFCSP]; (see https://www.intersil.com/content/dam/Intersil/documents/l72_/l72.10x10c.pdf)
+LFCSP 0.5
+0
+77
+73
+Package_CSP
+LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm
+LFCSP VQ, 24 pin, exposed pad, 4x4mm body, pitch 0.5mm (http://www.analog.com/media/en/package-pcb-resources/package/56702234806764cp_24_3.pdf, http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf)
+LFCSP 0.5
+0
+29
+25
+Package_CSP
+LFCSP-VQ-48-1EP_7x7mm_P0.5mm
+LFCSP VQ, 48 pin, exposed pad, 7x7mm body (http://www.analog.com/media/en/technical-documentation/data-sheets/AD7951.pdf, http://www.analog.com/en/design-center/packaging-quality-symbols-footprints/symbols-and-footprints/AD7951.html)
+LFCSP 48
+0
+49
+49
+Package_CSP
+LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm
+LFCSP-WD, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_19.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP-WD NoLead
+0
+15
+9
+Package_CSP
+LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm_ThermalVias
+LFCSP-WD, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_19.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP-WD NoLead
+0
+22
+9
+Package_CSP
+LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm
+LFCSP-WD, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP-WD NoLead
+0
+17
+11
+Package_CSP
+LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias
+LFCSP-WD, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP-WD NoLead
+0
+24
+11
+Package_CSP
+ST_WLCSP-25_Die425
+WLCSP-25, 5x5 raster, 2.097x2.493mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l031f6.pdf
+BGA 25 0.4
+0
+25
+25
+Package_CSP
+ST_WLCSP-25_Die444
+WLCSP-25, 5x5 raster, 2.423x2.325mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f031k6.pdf
+BGA 25 0.4
+0
+25
+25
+Package_CSP
+ST_WLCSP-25_Die457
+WLCSP-25, 5x5 raster, 2.133x2.070mm package, pitch 0.4mm; see section 7.3 of http://www.st.com/resource/en/datasheet/stm32l011k3.pdf
+BGA 25 0.4
+0
+25
+25
+Package_CSP
+ST_WLCSP-36_Die417
+WLCSP-36, 6x6 raster, 2.61x2.88mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32l052t8.pdf
+BGA 36 0.4
+0
+36
+36
+Package_CSP
+ST_WLCSP-36_Die440
+WLCSP-36, 6x6 raster, 2.605x2.703mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f051t8.pdf
+BGA 36 0.4
+0
+36
+36
+Package_CSP
+ST_WLCSP-36_Die445
+WLCSP-36, 6x6 raster, 2.605x2.703mm package, pitch 0.4mm; see section 7.3 of http://www.st.com/resource/en/datasheet/stm32f042k6.pdf
+BGA 36 0.4
+0
+36
+36
+Package_CSP
+ST_WLCSP-36_Die458
+WLCSP-36, 6x6 raster, 2.553x2.579mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f410t8.pdf
+BGA 36 0.4
+0
+36
+36
+Package_CSP
+ST_WLCSP-49_Die423
+WLCSP-49, 7x7 raster, 2.965x2.965mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f401vc.pdf
+BGA 49 0.4
+0
+49
+49
+Package_CSP
+ST_WLCSP-49_Die431
+WLCSP-49, 7x7 raster, 2.999x3.185mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f411vc.pdf
+BGA 49 0.4
+0
+49
+49
+Package_CSP
+ST_WLCSP-49_Die433
+WLCSP-49, 7x7 raster, 3.029x3.029mm package, pitch 0.4mm; see section 7.1.1 of http://www.st.com/resource/en/datasheet/stm32f401ce.pdf
+BGA 49 0.4
+0
+49
+49
+Package_CSP
+ST_WLCSP-49_Die435
+WLCSP-49, 7x7 raster, 3.141x3.127mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/DM00257211.pdf
+BGA 49 0.4
+0
+49
+49
+Package_CSP
+ST_WLCSP-49_Die438
+WLCSP-49, 7x7 raster, 3.89x3.74mm package, pitch 0.5mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f303r8.pdf
+BGA 49 0.5
+0
+49
+49
+Package_CSP
+ST_WLCSP-49_Die439
+WLCSP-49, 7x7 raster, 3.417x3.151mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f301r8.pdf
+BGA 49 0.4
+0
+49
+49
+Package_CSP
+ST_WLCSP-49_Die447
+WLCSP-49, 7x7 raster, 3.294x3.258mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l072kz.pdf
+BGA 49 0.4
+0
+49
+49
+Package_CSP
+ST_WLCSP-49_Die448
+WLCSP-49, 7x7 raster, 3.277x3.109mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f071v8.pdf
+BGA 49 0.4
+0
+49
+49
+Package_CSP
+ST_WLCSP-63_Die427
+WLCSP-63, 7x9 raster, 3.228x4.164mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l151cc.pdf
+BGA 63 0.4
+0
+63
+63
+Package_CSP
+ST_WLCSP-64_Die414
+WLCSP-64, 8x8 raster, 4.466x4.395mm package, pitch 0.5mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f103ze.pdf
+BGA 64 0.5
+0
+64
+64
+Package_CSP
+ST_WLCSP-64_Die427
+WLCSP-64, 8x8 raster, 4.539x4.911mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l152zc.pdf
+BGA 64 0.4
+0
+64
+64
+Package_CSP
+ST_WLCSP-64_Die435
+WLCSP-64, 8x8 raster, 3.141x3.127mm package, pitch 0.35mm; see section 7.5 of http://www.st.com/resource/en/datasheet/DM00257211.pdf
+BGA 64 0.35
+0
+64
+64
+Package_CSP
+ST_WLCSP-64_Die436
+WLCSP-64, 8x8 raster, 4.539x4.911mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l152zd.pdf
+BGA 64 0.4
+0
+64
+64
+Package_CSP
+ST_WLCSP-64_Die441
+WLCSP-64, 8x8 raster, 3.623x3.651mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/DM00213872.pdf
+BGA 64 0.4
+0
+64
+64
+Package_CSP
+ST_WLCSP-64_Die442
+WLCSP-64, 8x8 raster, 3.347x3.585mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f091vb.pdf
+BGA 64 0.4
+0
+64
+64
+Package_CSP
+ST_WLCSP-64_Die462
+WLCSP-64, 8x8 raster, 3.357x3.657mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/DM00340475.pdf
+BGA 64 0.4
+0
+64
+64
+Package_CSP
+ST_WLCSP-66_Die411
+WLCSP-66, 9x9 raster, 3.639x3.971mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f207vg.pdf
+BGA 66 0.4
+0
+66
+66
+Package_CSP
+ST_WLCSP-66_Die432
+WLCSP-66, 8x9 raster, 3.767x4.229mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f378vc.pdf
+BGA 66 0.4
+0
+66
+66
+Package_CSP
+ST_WLCSP-72_Die415
+WLCSP-72, 9x9 raster, 4.4084x3.7594mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l476me.pdf
+BGA 72 0.4
+0
+72
+72
+Package_CSP
+ST_WLCSP-81_Die415
+WLCSP-81, 9x9 raster, 4.4084x3.7594mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32l476me.pdf
+BGA 81 0.4
+0
+81
+81
+Package_CSP
+ST_WLCSP-81_Die421
+WLCSP-81, 9x9 raster, 3.693x3.815mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32f446ze.pdf
+BGA 81 0.4
+0
+81
+81
+Package_CSP
+ST_WLCSP-81_Die463
+WLCSP-81, 9x9 raster, 4.039x3.951mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/DM00282249.pdf
+BGA 81 0.4
+0
+81
+81
+Package_CSP
+ST_WLCSP-90_Die413
+WLCSP-90, 10x9 raster, 4.223x3.969mm package, pitch 0.4mm; see section 6.1 of http://www.st.com/resource/en/datasheet/stm32f405og.pdf
+BGA 90 0.4
+0
+90
+90
+Package_CSP
+ST_WLCSP-100_Die422
+WLCSP-100, 10x10 raster, 4.201x4.663mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f302vc.pdf
+BGA 100 0.4
+0
+100
+100
+Package_CSP
+ST_WLCSP-100_Die446
+WLCSP-100, 10x10 raster, 4.775x5.041mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f303zd.pdf
+BGA 100 0.4
+0
+100
+100
+Package_CSP
+ST_WLCSP-100_Die452
+WLCSP-100, 10x10 raster, 4.201x4.663mm package, pitch 0.4mm; see section 7.7 of http://www.st.com/resource/en/datasheet/DM00330506.pdf
+BGA 100 0.4
+0
+100
+100
+Package_CSP
+ST_WLCSP-100_Die461
+WLCSP-100, 10x10 raster, 4.618x4.142mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/DM00284211.pdf
+BGA 100 0.4
+0
+100
+100
+Package_CSP
+ST_WLCSP-104_Die437
+WLCSP-104, 9x12 raster, 4.095x5.094mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l152ze.pdf
+BGA 104 0.4
+0
+104
+104
+Package_CSP
+ST_WLCSP-143_Die419
+WLCSP-143, 11x13 raster, 4.521x5.547mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f429ng.pdf
+BGA 143 0.4
+0
+143
+143
+Package_CSP
+ST_WLCSP-143_Die449
+WLCSP-143, 11x13 raster, 4.539x5.849mm package, pitch 0.4mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f746zg.pdf
+BGA 143 0.4
+0
+143
+143
+Package_CSP
+ST_WLCSP-144_Die470
+WLCSP-144, 12x12 raster, 5.24x5.24mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/DM00366448.pdf
+BGA 144 0.4
+0
+144
+144
+Package_CSP
+ST_WLCSP-168_Die434
+WLCSP-168, 12x14 raster, 4.891x5.692mm package, pitch 0.4mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f469ni.pdf
+BGA 168 0.4
+0
+168
+168
+Package_CSP
+ST_WLCSP-180_Die451
+WLCSP-180, 13x14 raster, 5.537x6.095mm package, pitch 0.4mm; see section 6.6 of http://www.st.com/resource/en/datasheet/DM00273119.pdf
+BGA 180 0.4
+0
+180
+180
+Package_CSP
+WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
+X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf
+CSP 4 0.5
+0
+4
+4
+Package_CSP
+WLCSP-6_1.4x1.0mm_P0.4mm
+6pin Pitch 0.4mm
+6pin Pitch 0.4mm WLCSP
+0
+6
+6
+Package_CSP
+WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD
+WLCSP/XFBGA 8-pin package, staggered pins, http://www.adestotech.com/wp-content/uploads/DS-AT25DF041B_040.pdf
+WLCSP WLCSP-8 XFBGA XFBGA-8  CSP BGA Chip-Scale Glass-Top
+0
+8
+8
+Package_CSP
+WLCSP-8_1.551x2.284mm_P0.5mm
+WLCSP-8, 2.284x1.551mm, 8 Ball, 2x4 Layout, 0.5mm Pitch, https://www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf#page=75
+CSP 8 0.5
+0
+8
+8
+Package_CSP
+WLCSP-12_1.56x1.56mm_P0.4mm
+WLCSP 12 1.56x1.56 https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMM150-DS001-01.pdf
+BMM150 WLCSP
+0
+12
+12
+Package_CSP
+WLCSP-12_1.403x1.555mm_P0.4mm_Stagger
+WLCSP-12, 6x4 raster staggered array, 1.403x1.555mm package, pitch 0.4mm; http://ww1.microchip.com/downloads/en/devicedoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=208
+CSP 12 0.2x0.346333
+0
+12
+12
+Package_CSP
+WLCSP-16_1.409x1.409mm_P0.35mm
+WLCSP-16, 1.409x1.409mm, 16 Ball, 4x4 Layout, 0.35mm Pitch, http://www.latticesemi.com/view_document?document_id=213
+CSP 16 0.35
+0
+16
+16
+Package_CSP
+WLCSP-16_4x4_B2.17x2.32mm_P0.5mm
+WLCSP-16, http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf, http://www.nxp.com/assets/documents/data/en/application-notes/AN3846.pdf
+WLCSP-16 NXP
+0
+16
+16
+Package_CSP
+WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm
+WLCSP-20, 4x5 raster, 1.934x2.434mm package, pitch 0.4mm; see section 36.2.3 of http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf
+BGA 20 0.4
+0
+20
+20
+Package_CSP
+WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm
+WLCSP-20, https://www.nxp.com/docs/en/package-information/98ASA00539D.pdf
+WLCSP-20
+0
+20
+20
+Package_CSP
+WLCSP-20_1.994x1.609mm_Layout5x4_P0.4mm
+WLCSP-20, https://www.nxp.com/docs/en/package-information/98ASA00676D.pdf
+WLCSP-20
+0
+20
+20
+Package_CSP
+WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm
+WLCSP-36, https://www.nxp.com/docs/en/package-information/98ASA00949D.pdf
+WLCSP-36
+0
+36
+36
+Package_CSP
+WLCSP-36_2.374x2.459mm_Layout6x6_P0.35mm
+WLCSP-36, https://www.nxp.com/docs/en/package-information/98ASA00604D.pdf
+WLCSP-36
+0
+36
+36
+Package_CSP
+WLCSP-56_3.170x3.444mm_Layout7x8_P0.4mm
+WLCSP-56, 7x8 raster, 3.170x3.444mm package, pitch 0.4mm; see section 48.2.4 of http://ww1.microchip.com/downloads/en/DeviceDoc/DS60001479B.pdf
+BGA 56 0.4
+0
+56
+56
+Package_CSP
+WLCSP-81_4.41x3.76mm_P0.4mm
+WLCSP-81, 9x9, 0.4mm Pitch, http://www.st.com/content/ccc/resource/technical/document/technical_note/92/30/3c/a1/4c/bb/43/6f/DM00103228.pdf/files/DM00103228.pdf/jcr:content/translations/en.DM00103228.pdf
+WLCSP ST
+0
+81
+81
+Package_CSP
+pSemi_CSP-16_1.64x2.04mm_P0.4mm
+pSemi CSP-16 1.64x2.04x0.285mm (http://www.psemi.com/pdf/datasheets/pe29101ds.pdf, http://www.psemi.com/pdf/app_notes/an77.pdf)
+psemi csp 16
+0
+16
+16
+Package_CSP
+pSemi_CSP-16_1.64x2.04mm_P0.4mm_Pad0.18mm
+pSemi CSP-16 1.64x2.04x0.285mm (http://www.psemi.com/pdf/datasheets/pe29101ds.pdf, http://www.psemi.com/pdf/app_notes/an77.pdf)
+psemi csp 16
+0
+16
+16
 Package_DFN_QFN
 AMS_QFN-4-1EP_2x2mm_P0.95mm_EP0.7x1.6mm
 UFD Package, 4-Lead Plastic QFN (2mm x 2mm), http://ams.com/eng/content/download/950231/2267959/483138
@@ -65276,7 +63183,7 @@ SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
 6
 Package_DIP
 SMDIP-6_W9.53mm
-6-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+6-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), narrow pad
 SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
 0
 6
@@ -65834,6 +63741,167 @@ DirectFET ST MOSFET Infineon
 0
 7
 3
+Package_LCC
+PLCC-20
+PLCC, 20 pins, surface mount
+plcc smt
+0
+20
+20
+Package_LCC
+PLCC-20_SMD-Socket
+PLCC, 20 pins, surface mount
+plcc smt
+0
+20
+20
+Package_LCC
+PLCC-20_THT-Socket
+PLCC, 20 pins, through hole
+plcc leaded
+0
+20
+20
+Package_LCC
+PLCC-28
+PLCC, 28 pins, surface mount
+plcc smt
+0
+28
+28
+Package_LCC
+PLCC-28_SMD-Socket
+PLCC, 28 pins, surface mount
+plcc smt
+0
+28
+28
+Package_LCC
+PLCC-28_THT-Socket
+PLCC, 28 pins, through hole
+plcc leaded
+0
+28
+28
+Package_LCC
+PLCC-32_11.4x14.0mm_P1.27mm
+PLCC, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/doc0015.pdf), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+32
+32
+Package_LCC
+PLCC-32_THT-Socket
+PLCC, 32 pins, through hole, http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0981_CO.pdf
+plcc leaded
+0
+32
+32
+Package_LCC
+PLCC-44
+PLCC, 44 pins, surface mount
+plcc smt
+0
+44
+44
+Package_LCC
+PLCC-44_16.6x16.6mm_P1.27mm
+PLCC, 44 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+44
+44
+Package_LCC
+PLCC-44_SMD-Socket
+PLCC, 44 pins, surface mount
+plcc smt
+0
+44
+44
+Package_LCC
+PLCC-44_THT-Socket
+PLCC, 44 pins, through hole
+plcc leaded
+0
+44
+44
+Package_LCC
+PLCC-52
+PLCC, 52 pins, surface mount
+plcc smt
+0
+52
+52
+Package_LCC
+PLCC-52_SMD-Socket
+PLCC, 52 pins, surface mount
+plcc smt
+0
+52
+52
+Package_LCC
+PLCC-52_THT-Socket
+PLCC, 52 pins, through hole
+plcc leaded
+0
+52
+52
+Package_LCC
+PLCC-68
+PLCC, 68 pins, surface mount
+plcc smt
+0
+68
+68
+Package_LCC
+PLCC-68_24.2x24.2mm_P1.27mm
+PLCC, 68 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+68
+68
+Package_LCC
+PLCC-68_SMD-Socket
+PLCC, 68 pins, surface mount
+plcc smt
+0
+68
+68
+Package_LCC
+PLCC-68_THT-Socket
+PLCC, 68 pins, through hole
+plcc leaded
+0
+68
+68
+Package_LCC
+PLCC-84
+PLCC, 84 pins, surface mount
+plcc smt
+0
+84
+84
+Package_LCC
+PLCC-84_29.3x29.3mm_P1.27mm
+PLCC, 84 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_plcc_jLead_generator.py
+PLCC LCC
+0
+84
+84
+Package_LCC
+PLCC-84_SMD-Socket
+PLCC, 84 pins, surface mount
+plcc smt
+0
+84
+84
+Package_LCC
+PLCC-84_THT-Socket
+PLCC, 84 pins, through hole
+plcc leaded
+0
+84
+84
 Package_QFP
 EQFP-144-1EP_20x20mm_P0.5mm_EP4x4mm
 EQFP, 144 Pin (https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/packaging/04r00482-02.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -72652,6 +70720,699 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+Relay_SMD
+Relay_2P2T_10x6mm_TE_IMxxG
+Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
+TE IM-Series Relay DPDT Form C
+0
+8
+8
+Relay_SMD
+Relay_DPDT_AXICOM_IMSeries_JLeg
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf
+AXICOM IM-Series Relay J JLeg
+0
+8
+8
+Relay_SMD
+Relay_DPDT_FRT5_SMD
+IM Signal Relay DPDT FRT5 narrow footprint, SMD version of package
+Relay DPDT IM-relay FRT5
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NU
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double coil latching surface mount SMD
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NUH
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double coil latching surface mount SMD
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NUH_DoubleCoil
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NUX_DoubleCoil
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NUX_NKX
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double coil latching surface mount SMD
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Kemet_EE2_NU_DoubleCoil
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double dual coil latching surface mount SMD
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Omron_G6H-2F
+package for Omron G6H-2F relais, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf
+Omron G6H-2F relais
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Omron_G6K-2F
+Omron G6K-2F relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+Omron G6K-2F relay
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Omron_G6K-2F-Y
+Omron G6K-2F-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+Omron G6K-2F-Y relay
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Omron_G6K-2G
+Omron G6K-2G relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+Omron G6K-2G relay
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Omron_G6K-2G-Y
+Omron G6K-2G-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+Omron G6K-2G-Y relay
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Omron_G6S-2F
+Relay Omron G6S-2F, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf
+Relay Omron G6S-2F
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Omron_G6S-2G
+Relay Omron G6S-2G, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf
+Relay Omron G6S-2G
+0
+8
+8
+Relay_SMD
+Relay_DPDT_Omron_G6SK-2F
+Relay Omron G6SK-2F, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf
+Relay Omron G6SK-2F
+0
+10
+10
+Relay_SMD
+Relay_DPDT_Omron_G6SK-2G
+Relay Omron G6SK-2G, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf
+Relay Omron G6SK-2G
+0
+10
+10
+Relay_SMD
+Relay_Fujitsu_FTR-B3S
+https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf
+Fujitsh FTR B3S B3SA Relay J JLeg
+0
+8
+8
+Relay_SMD
+Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm
+hiqsdr.com/images/3/3e/Axicom-HF3.pdf
+AXICOM HF3-Series Relay Pitch 1.27mm 50ohms
+0
+16
+16
+Relay_SMD
+Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm
+hiqsdr.com/images/3/3e/Axicom-HF3.pdf
+AXICOM HF3-Series Relay Pitch 1.27mm 75ohm
+0
+16
+16
+Relay_THT
+Relay_1-Form-A_Schrack-RYII_RM5mm
+Relay, 1-Form-A, Schrack-RYII, RM5mm, SPST-NO
+Relay 1-Form-A Schrack-RYII RM5mm SPST-NO
+0
+4
+4
+Relay_THT
+Relay_1-Form-B_Schrack-RYII_RM5mm
+Relay, 1-Form-B, Schrack-RYII, RM5mm, SPST-NC
+Relay 1-Form-B Schrack-RYII RM5mm SPST-NC
+0
+4
+4
+Relay_THT
+Relay_1-Form-C_Schrack-RYII_RM3.2mm
+Relay, 1-Form-C, Schrack-RYII, RM3.2mm, SPDT
+Relay 1-Form-C Schrack-RYII RM3.2mm SPDT
+0
+5
+5
+Relay_THT
+Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT
+Panasonic Relay SPST 10mm 24mm, https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf
+Panasonic Relay SPST
+0
+4
+4
+Relay_THT
+Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm
+AXICOM IM-Series Relays, DPDR, Pitch 3.2mm, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FV%7Fpdf%7FEnglish%7FENG_SS_108-98001_V_IM_0614_v1.pdf%7F4-1462039-1
+AXICOM IM-Series Relay DPDR Pitch 3.2mm
+0
+8
+8
+Relay_THT
+Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm
+AXICOM IM-Series Relays, DPDR, Pitch 5.08
+AXICOM IM-Series Relay DPDR Pitch 5.08
+0
+8
+8
+Relay_THT
+Relay_DPDT_FRT5
+IM Signal Relay DPDT FRT5 narrow footprint
+Relay DPDT IM-relay FRT5
+0
+10
+10
+Relay_THT
+Relay_DPDT_Finder_30.22
+Finder 32.21-x000 Relay, DPDT, https://gfinder.findernet.com/public/attachments/30/EN/S30EN.pdf
+AXICOM IM-Series Relay SPDT
+0
+8
+8
+Relay_THT
+Relay_DPDT_Finder_40.52
+Relay DPDT Finder 40.52, Pitch 5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
+Relay DPDT Finder 40.52 Pitch 5mm
+0
+8
+8
+Relay_THT
+Relay_DPDT_Fujitsu_FTR-F1C
+https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf
+relay dpdt fujitsu tht
+0
+8
+8
+Relay_THT
+Relay_DPDT_Kemet_EC2
+Kemet signal relay, DPDT, non-latching, single coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT non single coil latching through hole THT
+0
+8
+8
+Relay_THT
+Relay_DPDT_Kemet_EC2_DoubleCoil
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double dual coil latching through hole THT
+0
+10
+10
+Relay_THT
+Relay_DPDT_Omron_G2RL
+Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay DPDT
+0
+8
+8
+Relay_THT
+Relay_DPDT_Omron_G5V-2
+http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v2.pdf
+Omron G5V-2 Relay DPDT
+0
+8
+8
+Relay_THT
+Relay_DPDT_Omron_G6H-2
+Omron relay G6H-2, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf
+Omron relay G6H-2
+0
+10
+10
+Relay_THT
+Relay_DPDT_Omron_G6K-2P
+Omron G6K-2P relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+Omron G6K-2P relay
+0
+8
+8
+Relay_THT
+Relay_DPDT_Omron_G6K-2P-Y
+Omron G6K-2P-Y relay package http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf
+Omron G6K-2P-Y relay
+0
+8
+8
+Relay_THT
+Relay_DPDT_Omron_G6S-2
+Relay Omron G6S-2, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf
+Relay Omron G6S-2
+0
+8
+8
+Relay_THT
+Relay_DPDT_Omron_G6SK-2
+Relay Omron G6SK-2, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf
+Relay Omron G6SK-2
+0
+10
+10
+Relay_THT
+Relay_DPDT_Panasonic_JW2
+Panasonic Relay DPDT, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok
+Panasonic Relay DPDT
+0
+8
+8
+Relay_THT
+Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm
+Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Form C http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FRT2_bistable%7F1116%7Fpdf%7FEnglish%7FENG_DS_RT2_bistable_1116.pdf%7F1-1415537-8
+Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Relay
+0
+9
+9
+Relay_THT
+Relay_DPDT_Schrack-RT2-FormC_RM5mm
+Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Form C http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT2_reflow&DocType=DS&DocLang=EN
+Relay DPDT Schrack-RT2 RM5mm 16A 250V AC Relay
+0
+8
+8
+Relay_THT
+Relay_DPST_Fujitsu_FTR-F1A
+https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf
+relay dpst fujitsu tht
+0
+6
+6
+Relay_THT
+Relay_DPST_Schrack-RT2-FormA_RM5mm
+Relay DPST Schrack-RT2 RM5mm 16A 250V AC Form A http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT2_reflow&DocType=DS&DocLang=EN
+Relay DPST Schrack-RT2 RM5mm 16A 250V AC Relay
+0
+6
+6
+Relay_THT
+Relay_SPDT_Finder_32.21-x000
+Finder 32.21-x000 Relay, SPDT, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+AXICOM IM-Series Relay SPDT
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_34.51_Horizontal
+Relay SPDT, Finder Type34.51, horizontal form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
+Relay SPDT Finder
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_34.51_Vertical
+Relay SPDT, Finder Type34.51, vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
+Relay SPDT Finder
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_36.11
+FINDER 36.11, SPDT relay, 10A, https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf
+spdt relay
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_40.11
+Relay SPDT Finder 40.11, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
+Relay SPDT Finder 40.11 
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_40.31
+Relay DPDT Finder 40.31, Pitch 3.5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
+Relay DPDT Finder 40.31 Pitch 3.5mm
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_40.41
+Relay DPDT Finder 40.41, Pitch 3.5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
+Relay DPDT Finder 40.41 Pitch 3.5mm
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_40.51
+Relay DPDT Finder 40.51, Pitch 5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
+Relay DPDT Finder 40.51 Pitch 5mm
+0
+5
+5
+Relay_THT
+Relay_SPDT_HJR-4102
+IM Signal Relay SPDT HJR-4102
+Relay SPDT IM-relay HJR-4102
+0
+6
+6
+Relay_THT
+Relay_SPDT_HsinDa_Y14
+http://www.hsinda.com.cn/en/ProductShow.asp?ID=208
+Relay Y14
+0
+6
+6
+Relay_THT
+Relay_SPDT_Omron-G5LE-1
+Omron Relay SPDT, http://www.omron.com/ecb/products/pdf/en-g5le.pdf
+Omron Relay SPDT
+0
+5
+5
+Relay_THT
+Relay_SPDT_Omron-G5Q-1
+Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf
+Relay SPDT Omron Serie G5Q
+0
+5
+5
+Relay_THT
+Relay_SPDT_Omron_G5V-1
+Relay Omron G5V-1, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf
+Relay Omron G5V-1
+0
+6
+6
+Relay_THT
+Relay_SPDT_Omron_G6E
+Relay SPDT Omron Serie G6E
+Relay SPDT Omron Serie G6E 1x um
+0
+5
+5
+Relay_THT
+Relay_SPDT_Omron_G6EK
+Relay SPDT Omron Serie G6EK, see http://www.logosfoundation.org/instrum_gwr/pi/Omron_G6E_134P.pdf
+Relay SPDT Omron Serie G6EK
+0
+6
+6
+Relay_THT
+Relay_SPDT_Panasonic_JW1_FormC
+Panasonic Relay SPDT, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok
+Panasonic Relay SPDT
+0
+5
+5
+Relay_THT
+Relay_SPDT_PotterBrumfield_T9AP5D52_12V30A
+Relay SPDT Potter&Brumfield T9AP5D52 12V 30A 1xUn Connector Fast ON Only Dummy for Space NO Pads
+Relay SPDT Potter&Brumfield T9AP5D52 12V 30A 1xUm Connector Fast ON Flachsteckeranschluss Only Dummy for Space NO Pads
+0
+0
+0
+Relay_THT
+Relay_SPDT_RAYEX-L90
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90 SPDT
+0
+6
+6
+Relay_THT
+Relay_SPDT_RAYEX-L90S
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90S SPDT
+0
+5
+5
+Relay_THT
+Relay_SPDT_SANYOU_SRD_Series_Form_C
+relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+relay Sanyu SRD form C
+0
+5
+5
+Relay_THT
+Relay_SPDT_Schrack-RP-II-1-16A-FormC_RM5mm
+Relay SPST Schrack-RP-II/1 RM5mm 16A 250V AC Form C http://image.schrack.com/datenblaetter/h_rp810012-b.pdf
+Relay SPST Schrack-RP-II/1 RM5mm 16A 250V AC Relay
+0
+8
+5
+Relay_THT
+Relay_SPDT_Schrack-RP-II-1-FormC_RM3.5mm
+Relay SPST Schrack-RP-II/1 RM3.5mm 8A 250V AC Form C http://image.schrack.com/datenblaetter/h_rp810012-b.pdf
+Relay SPST Schrack-RP-II/1 RM3.5mm 8A 250V AC Relay
+0
+5
+5
+Relay_THT
+Relay_SPDT_Schrack-RP-II-1-FormC_RM5mm
+Relay SPST Schrack-RP-II/1 RM5mm 8A 250V AC Form C http://image.schrack.com/datenblaetter/h_rp810012-b.pdf
+Relay SPST Schrack-RP-II/1 RM5mm 8A 250V AC Relay
+0
+5
+5
+Relay_THT
+Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm
+Relay SPST Schrack-RT1 RM5mm 16A 250V AC Form C http://image.schrack.com/datenblaetter/h_rt114012--_de.pdf
+Relay SPST Schrack-RT1 RM5mm 16A 250V AC Relay
+0
+8
+5
+Relay_THT
+Relay_SPDT_Schrack-RT1-FormC_RM3.5mm
+Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Form C http://image.schrack.com/datenblaetter/h_rt114012--_de.pdf
+Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Relay
+0
+5
+5
+Relay_THT
+Relay_SPDT_Schrack-RT1-FormC_RM5mm
+Relay SPST Schrack-RT1 RM5mm 8A 250V AC Form C http://image.schrack.com/datenblaetter/h_rt114012--_de.pdf
+Relay SPST Schrack-RT1 RM5mm 8A 250V AC Relay
+0
+5
+5
+Relay_THT
+Relay_SPDT_StandexMeder_SIL_Form1C
+Standex-Meder SIL-relais, Form 1C, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf
+Standex Meder SIL reed relais
+0
+5
+5
+Relay_THT
+Relay_SPST_Finder_32.21-x300
+Finder 32.21-x300 Relay, SPST, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
+Finder 32.21-x300 Relay SPST
+0
+4
+4
+Relay_THT
+Relay_SPST_Omron-G5Q-1A
+Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf
+Relay SPST-NO Omron Serie G5Q
+0
+4
+4
+Relay_THT
+Relay_SPST_Panasonic_JW1_FormA
+Panasonic Relay SPST, http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok
+Panasonic Relay SPST
+0
+4
+4
+Relay_THT
+Relay_SPST_PotterBrumfield_T9AP1D52_12V30A
+Relay SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Only Dummy for Space NO Pads
+Relau SPST Potter&Brumfield T9AP1D52 12V 30A 1xEin Connector Fast ON Flachsteckeranschluss Only Dummy for Space NO Pads
+0
+0
+0
+Relay_THT
+Relay_SPST_RAYEX-L90A
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90A SPST NO
+0
+5
+5
+Relay_THT
+Relay_SPST_RAYEX-L90AS
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90AS SPST NO
+0
+4
+4
+Relay_THT
+Relay_SPST_RAYEX-L90B
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90B SPST NC
+0
+5
+5
+Relay_THT
+Relay_SPST_RAYEX-L90BS
+https://a3.sofastcdn.com/attachment/7jioKBjnRiiSrjrjknRiwS77gwbf3zmp/L90-SERIES.pdf
+Relay RAYEX L90BS SPST NC
+0
+4
+4
+Relay_THT
+Relay_SPST_SANYOU_SRD_Series_Form_A
+relay Sanyou SRD series Form A http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+relay Sanyu SRD form A
+0
+4
+4
+Relay_THT
+Relay_SPST_SANYOU_SRD_Series_Form_B
+relay Sanyou SRD series Form B opener http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
+relay Sanyu SRD form B opener
+0
+4
+4
+Relay_THT
+Relay_SPST_Schrack-RP-II-1-16A-FormA_RM5mm
+Relay SPST Schrack-RP-II/1 RM5mm 16A 250V AC Form A http://image.schrack.com/datenblaetter/h_rp810012-b.pdf
+Relay SPST Schrack-RP-II/1 RM5mm 16A 250V AC Relay
+0
+6
+4
+Relay_THT
+Relay_SPST_Schrack-RP-II-1-FormA_RM3.5mm
+Relay SPST Schrack-RP-II/1 RM3.5mm 8A 250V AC Form A
+Relay SPST Schrack-RP-II/1 RM3.5mm 8A 250V AC Relay
+0
+4
+4
+Relay_THT
+Relay_SPST_Schrack-RP-II-1-FormA_RM5mm
+Relay SPST Schrack-RP-II/1 RM5mm 8A 250V AC Form A http://image.schrack.com/datenblaetter/h_rp810012-b.pdf
+Relay SPST Schrack-RP-II/1 RM5mm 8A 250V AC Relay
+0
+4
+4
+Relay_THT
+Relay_SPST_Schrack-RP3SL-1coil_RM5mm
+Relay SPST Schrack-RP3SL, 1-coil-version, RM5mm 16A 250V AC Form A http://www.alliedelec.com/m/d/543c6bed18bf23a83ae5238947033ee0.pdf
+Relay SPST Schrack-RP3SL RM5mm 16A 250V AC Relay
+0
+6
+4
+Relay_THT
+Relay_SPST_Schrack-RP3SL_RM5mm
+Relay SPST Schrack-RP3SL RM5mm 16A 250V AC Form A http://www.alliedelec.com/m/d/543c6bed18bf23a83ae5238947033ee0.pdf
+Relay SPST Schrack-RP3SL RM5mm 16A 250V AC Relay
+0
+7
+5
+Relay_THT
+Relay_SPST_Schrack-RT1-16A-FormA_RM5mm
+Relay SPST Schrack-RT2 RM5mm 16A 250V AC Form C http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT2_reflow&DocType=DS&DocLang=EN
+Relay SPST Schrack-RT2 RM5mm 16A 250V AC Relay
+0
+6
+4
+Relay_THT
+Relay_SPST_Schrack-RT1-FormA_RM3.5mm
+Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Form A
+Relay SPST Schrack-RT1 RM3.5mm 8A 250V AC Relay
+0
+4
+4
+Relay_THT
+Relay_SPST_Schrack-RT1-FormA_RM5mm
+Relay SPST Schrack-RT1 RM5mm 8A 250V AC Form C http://image.schrack.com/datenblaetter/h_rt114012--_de.pdf
+Relay SPST Schrack-RT1 RM5mm 8A 250V AC Relay
+0
+4
+4
+Relay_THT
+Relay_SPST_StandexMeder_MS_Form1AB
+Standex-Meder MS SIL-relais, Form 1A/1B, see https://standexelectronics.com/de/produkte/ms-reed-relais/
+Standex Meder MS SIL reed relais
+0
+4
+4
+Relay_THT
+Relay_SPST_StandexMeder_SIL_Form1A
+Standex-Meder SIL-relais, Form 1A, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf
+Standex Meder SIL reed relais
+0
+4
+4
+Relay_THT
+Relay_SPST_StandexMeder_SIL_Form1B
+Standex-Meder SIL-relais, Form 1B, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf
+Standex Meder SIL reed relais
+0
+4
+4
+Relay_THT
+Relay_SPST_TE_PCH-1xxx2M
+Miniature PCB Relay, PCH Series, 1 Form A (NO), SPST http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FPCH_series_relay_data_sheet_E%7F1215%7Fpdf%7FEnglish%7FENG_DS_PCH_series_relay_data_sheet_E_1215.pdf
+Relay SPST NO
+0
+4
+4
+Relay_THT
+Relay_SPST_TE_PCN-1xxD3MHZ
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1461491%7FG2%7Fpdf%7FEnglish%7FENG_CD_1461491_G2.pdf%7F3-1461491-0
+SPST relay slim
+0
+4
+4
+Relay_THT
+Relay_Socket_DPDT_Finder_96.12
+https://gfinder.findernet.com/public/attachments/56/DE/S56DE.pdf
+Relay socket DPDT Finder 96.12 56.32
+0
+8
+8
+Relay_THT
+Relay_StandexMeder_DIP_HighProfile
+package for Standex Meder DIP reed relay series, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf
+DIL DIP PDIP 2.54mm 7.62mm 300mil reed relay
+0
+8
+8
+Relay_THT
+Relay_StandexMeder_DIP_LowProfile
+package for Standex Meder DIP reed relay series, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_DIP.pdf
+DIL DIP PDIP 2.54mm 7.62mm 300mil reed relay
+0
+8
+8
+Relay_THT
+Relay_StandexMeder_UMS
+Standex-Meder SIL-relais, UMS, see http://cdn-reichelt.de/documents/datenblatt/C300/UMS05_1A80_75L_DB.pdf
+Standex Meder SIL reed relais
+0
+4
+4
 Resistor_SMD
 R_0201_0603Metric
 Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -79414,622 +78175,6 @@ test point THT pad
 0
 1
 1
-Transformer_SMD
-Pulse_P0926NL
-SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
-pulse pa0926nl
-0
-6
-6
-Transformer_SMD
-Pulse_PA1323NL
-SMT Gate Drive Transformer, 1:1, 9.5x7.1x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
-pulse pa1323nl
-0
-6
-6
-Transformer_SMD
-Pulse_PA2001NL
-SMT Gate Drive Transformer, 1:1, 8.6x6.7x2.5mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
-pulse pa2001nl pe-68386nl
-0
-4
-4
-Transformer_SMD
-Pulse_PA2002NL-PA2008NL-PA2009NL
-SMT Gate Drive Transformer, 1:1:1 or 2:1:1 or 2.5:1:1 or 1:1, 9.0x8.6x7.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
-pulse pa2002nl pa2008nl pa2009nl p0544nl pa0184nl pa0297nl pa0510nl
-0
-6
-6
-Transformer_SMD
-Pulse_PA2004NL
-SMT Gate Drive Transformer, 1:1:1, 8.6x6.7x3.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
-pulse pa2004nl pa0264nl
-0
-6
-6
-Transformer_SMD
-Pulse_PA2005NL
-SMT Gate Drive Transformer, 1:1:1, 11.8x8.8x4.0mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
-pulse pa2005nl pa0173nl
-0
-6
-6
-Transformer_SMD
-Pulse_PA2006NL
-SMT Gate Drive Transformer, 1:1, 11.8x8.8x4.0mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
-pulse pa2006nl pa0186nl
-0
-4
-4
-Transformer_SMD
-Pulse_PA2007NL
-SMT Gate Drive Transformer, 1:1, 9.0x8.6x7.6mm (https://productfinder.pulseeng.com/products/datasheets/P663.pdf)
-pulse pa2007nl
-0
-4
-4
-Transformer_SMD
-Pulse_PA2777NL
-SMT Gate Drive Transformer, 1:1, 7.1x6.1x5.5mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
-pulse pa2777nl
-0
-8
-8
-Transformer_SMD
-Pulse_PA3493NL
-SMT Gate Drive Transformer, 1.25:1, 10.9x9.7x2.7mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
-pulse pa3493nl
-0
-4
-4
-Transformer_SMD
-Transformer_Coilcraft_CST1
-Current sense transformer, SMD, 8.0x8.13x5.3mm (https://www.coilcraft.com/pdfs/cst.pdf)
-Transformer current sense SMD
-0
-8
-8
-Transformer_SMD
-Transformer_Coilcraft_CST2
-Current sense transformer, SMD, 8.0x8.13x5.3mm (https://www.coilcraft.com/pdfs/cst.pdf)
-Transformer current sense SMD
-0
-8
-8
-Transformer_SMD
-Transformer_Coilcraft_CST2010
-Current sense transformer, SMD, 14.55x19.91x10.50mm (https://www.coilcraft.com/pdfs/cst2010.pdf)
-Transformer current sense SMD
-0
-12
-12
-Transformer_SMD
-Transformer_CurrentSense_8.4x7.2mm
-Transformer current sense SMD 8.4x7.2mm
-Transformer current sense SMD
-0
-8
-8
-Transformer_SMD
-Transformer_Ethernet_Bel_S558-5999-T7-F
-Ethernet Transformer, Bel S558-5999-T7-F, https://www.belfuse.com/resources/ICMs/lan-/S558-5999-T7-F.pdf
-Ethernet Transformer
-0
-16
-16
-Transformer_SMD
-Transformer_Ethernet_Bourns_PT61017PEL
-https://www.bourns.com/docs/Product-Datasheets/PT61017PEL.pdf
-Transformer Ethernet Single Center-Tap
-0
-16
-16
-Transformer_SMD
-Transformer_Ethernet_HALO_TG111-MSC13
-Transformer Ethernet SMD, https://www.haloelectronics.com/pdf/discrete-genesus.pdf
-Transformer Ethernet SMD
-0
-24
-24
-Transformer_SMD
-Transformer_Ethernet_Wuerth_749013011A
-Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf
-Ethernet Transformer
-0
-16
-16
-Transformer_SMD
-Transformer_MACOM_SM-22
-https://cdn.macom.com/datasheets/ETC1-1-13.pdf
-RF Transformer
-0
-5
-5
-Transformer_SMD
-Transformer_Murata_78250JC
-Murata 78250JC https://www.murata-ps.com/datasheet?/data/magnetics/kmp_78250j.pdf
-Murata transformer
-0
-6
-6
-Transformer_SMD
-Transformer_NF_ETAL_P2781
-NF-Transformer, ETAL, P2781, SMD,
-NF-Transformer ETAL P2781 SMD 
-0
-8
-7
-Transformer_SMD
-Transformer_NF_ETAL_P2781_HandSoldering
-NF-Transformer, ETAL, P2781, SMD, Handsoldering
-NF-Transformer ETAL P2781 SMD Handsoldering 
-0
-8
-7
-Transformer_SMD
-Transformer_NF_ETAL_P3000
-NF-Reansformer, ETAL, P3000, SMD,
-NF-Reansformer ETAL P3000 SMD 
-0
-15
-13
-Transformer_SMD
-Transformer_NF_ETAL_P3000_HandSoldering
-NF-Reansformer, ETAL, P3000, SMD, Handsoldering,
-NF-Reansformer ETAL P3000 SMD Handsoldering 
-0
-15
-13
-Transformer_SMD
-Transformer_NF_ETAL_P3181
-NF-Transformer, ETAL, P3181, SMD,
-NF-Transformer ETAL P3181 SMD 
-0
-7
-6
-Transformer_SMD
-Transformer_NF_ETAL_P3181_HandSoldering
-NF-Transformer, ETAL, P3181, SMD, Hand Soldering,
-NF-Transformer ETAL P3181 SMD Hand Soldering 
-0
-7
-6
-Transformer_SMD
-Transformer_NF_ETAL_P3188
-NF-Transformer, ETAL, P3188, SMD,
-NF-Transformer ETAL P3188 SMD 
-0
-8
-6
-Transformer_SMD
-Transformer_NF_ETAL_P3188_HandSoldering
-NF-Transformer, ETAL, P3188, SMD, Handsoldering,
-NF-Transformer ETAL P3188 SMD Handsoldering 
-0
-8
-6
-Transformer_SMD
-Transformer_NF_ETAL_P3191
-NF-Transformer, ETAL, P3191, SMD,
-NF-Transformer ETAL P3191 SMD 
-0
-8
-6
-Transformer_SMD
-Transformer_NF_ETAL_P3191_HandSoldering
-NF-Transformer, ETAL, P3191, SMD, Handsoldering,
-NF-Transformer ETAL P3191 SMD Handsoldering 
-0
-8
-6
-Transformer_SMD
-Transformer_Pulse_H1100NL
-For H1100NL, H1101NL, H1102NL, H1121NL, H1183NL, H1199NL, HX1188NL, HX1198NL and H1302NL. https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/H1102NL/doc_part/H1102NL.pdf
-H1100NL H1101NL H1102NL H1121NL H1183NL H1199NL HX1188NL HX1198NL H1302N
-0
-16
-16
-Transformer_SMD
-Transformer_Wuerth_750315371
-Power Transformer, horizontal core with bobbin, 6 pin, 2.54mm pitch, 11.24mm row spacing, 12.6x8.3x4.1mm
-transformer flyback
-0
-6
-6
-Transformer_THT
-Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
-Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 9mm, Amidon T30,
-Autotransformer Toroid horizontal laying 1 Tap Diameter 9mm Amidon T30 
-0
-3
-3
-Transformer_THT
-Autotransformer_Toroid_1Tap_Horizontal_D10.5mm_Amidon-T37
-Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 10,5mm, Amidon T37,
-Autotransformer Toroid horizontal laying 1 Tap Diameter 10 5mm Amidon T37 
-0
-3
-3
-Transformer_THT
-Autotransformer_Toroid_1Tap_Horizontal_D12.5mm_Amidon-T44
-Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 12,5mm, Amidon T44,
-Autotransformer Toroid horizontal laying 1 Tap Diameter 12 5mm Amidon T44 
-0
-3
-3
-Transformer_THT
-Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50
-Choke, Inductance, Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 14mm, Amidon T50,
-Choke Inductance Autotransformer Toroid horizontal laying 1 Tap Diameter 14mm Amidon T50 
-0
-3
-3
-Transformer_THT
-Autotransformer_ZS1052-AC
-Ignition coil for xenon flash, http://www.excelitas.com/downloads/ZS1052ACH.pdf
-ignition coil autotransformer
-0
-3
-3
-Transformer_THT
-Transformer_37x44
-transformer 37x44mm²
-transformer 37x44mm²
-0
-12
-4
-Transformer_THT
-Transformer_Breve_TEZ-22x24
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-7
-7
-Transformer_THT
-Transformer_Breve_TEZ-28x33
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-9
-9
-Transformer_THT
-Transformer_Breve_TEZ-35x42
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-9
-9
-Transformer_THT
-Transformer_Breve_TEZ-38x45
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-9
-9
-Transformer_THT
-Transformer_Breve_TEZ-44x52
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-10
-10
-Transformer_THT
-Transformer_Breve_TEZ-47x57
-http://www.breve.pl/pdf/ANG/TEZ_ang.pdf
-TEZ PCB Transformer
-0
-13
-13
-Transformer_THT
-Transformer_CHK_EI30-2VA_1xSec
-Trafo, Printtrafo, CHK, EI30, 2VA, 1x Sec,http://www.eratransformers.com/downloads/030-7585.0.pdf
-Trafo Printtrafo CHK EI30 2VA 1x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI30-2VA_2xSec
-Trafo, Printtrafo, CHK, EI30, 2VA, 2x Sec,
-Trafo Printtrafo CHK EI30 2VA 2x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI30-2VA_Neutral
-Trafo, Printtrafo, CHK, EI30, 2VA, neutral,
-Trafo Printtrafo CHK EI30 2VA neutral 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI38-3VA_1xSec
-Trafo, Printtrafo, CHK, EI38, 3VA, 1x Sec, http://www.eratransformers.com/product-detail/20
-Trafo Printtrafo CHK EI38 3VA 1x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI38-3VA_2xSec
-Trafo, Printtrafo, CHK, EI38, 3VA, 2x Sec, http://www.eratransformers.com/product-detail/20
-Trafo Printtrafo CHK EI38 3VA 2x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI38-3VA_Neutral
-Trafo, Printtrafo, CHK, EI38, 3VA, neutral, http://www.eratransformers.com/product-detail/20
-Trafo Printtrafo CHK EI42 3VA neutral 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI42-5VA_1xSec
-Trafo, Printtrafo, CHK, EI42, 5VA, 1x Sec,
-Trafo Printtrafo CHK EI42 5VA 1x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI42-5VA_2xSec
-Trafo, Printtrafo, CHK, EI42, 5VA, 2x Sec,
-Trafo Printtrafo CHK EI42 5VA 2x Sec 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI42-5VA_Neutral
-Trafo, Printtrafo, CHK, EI42, 5VA, neutral,
-Trafo Printtrafo CHK EI42 5VA neutral 
-0
-10
-10
-Transformer_THT
-Transformer_CHK_EI48-8VA_1xSec
-Trafo, Printtrafo, CHK, EI48, 8VA, 1x Sec, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 8VA 1x Sec 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-8VA_2xSec
-Trafo, Printtrafo, CHK, EI48, 8VA, 2x Sec, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 8VA 2x Sec 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-8VA_Neutral
-Trafo, Printtrafo, CHK, EI48, 8VA, neutral, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 8VA neutral 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-10VA_1xSec
-Trafo, Printtrafo, CHK, EI48, 10VA, 1x Sec,
-Trafo Printtrafo CHK EI48 10VA 1x Sec 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-10VA_2xSec
-Trafo, Printtrafo, CHK, EI48, 10VA, 2x Sec, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 10VA 2x Sec 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI48-10VA_Neutral
-Trafo, Printtrafo, CHK, EI48, 10VA, neutral, http://www.eratransformers.com/product-detail/18
-Trafo Printtrafo CHK EI48 10VA neutral 
-0
-12
-12
-Transformer_THT
-Transformer_CHK_EI54-12VA_1xSec
-Trafo, Printtrafo, CHK, EI54, 12VA, 1x Sec,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 12VA 1x Sec 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-12VA_2xSec
-Trafo, Printtrafo, CHK, EI54, 12VA, 2x Sec,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 12VA 2x Sec 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-12VA_Neutral
-Trafo, Printtrafo, CHK, EI54, 12VA, neutral,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 12VA neutral 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-16VA_1xSec
-Trafo, Printtrafo, CHK, EI54, 16VA, 1x Sec,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 16VA 1x Sec 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-16VA_2xSec
-Trafo, Printtrafo, CHK, EI54, 16VA, 2x Sec,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 16VA 2x Sec 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_EI54-16VA_Neutral
-Trafo, Printtrafo, CHK, EI54, 16VA, neutral,http://www.eratransformers.com/product-detail/19
-Trafo Printtrafo CHK EI54 16VA neutral 
-0
-14
-14
-Transformer_THT
-Transformer_CHK_UI30-4VA_Flat
-Trafo, Flattrafo, CHK, UI30, 4VA,
-Trafo Flattrafo CHK UI30 4VA 
-0
-16
-16
-Transformer_THT
-Transformer_CHK_UI39-10VA_Flat
-Trafo, Flattrafo, CHK, UI39, 10VA,
-Trafo Flattrafo CHK UI39 10VA 
-0
-20
-20
-Transformer_THT
-Transformer_Coilcraft_Q4434-B_Rhombus-T1311
-Transformator, Transformer, Flyback, Coilcraft Q4434-B, Rgombus T1311,
-Transformator Transformer Flyback Coilcraft Q4434-B Rgombus T1311 
-0
-8
-8
-Transformer_THT
-Transformer_EPCOS_B66359A1013T_Horizontal
-Transformer, Transformator, ETD29, 13 Pin, Horizontal, EPCOS-B66359A1013T,
-Transformer Transformator ETD29 13 Pin Horizontal EPCOS-B66359A1013T 
-0
-13
-13
-Transformer_THT
-Transformer_EPCOS_B66359J1014T_Vertical
-Transformer, Transformator, ETD29, 14 Pin, Vertical, EPCOS-B66359J1014T,
-Transformer Transformator ETD29 14 Pin Vertical EPCOS-B66359J1014T 
-0
-14
-14
-Transformer_THT
-Transformer_Microphone_Lundahl_LL1538
-AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1538_8xl.pdf
-AUDIO TRAFO LUNDAHL
-0
-7
-7
-Transformer_THT
-Transformer_Microphone_Lundahl_LL1587
-AUDIO TRAFO LUNDAHL, https://www.lundahltransformers.com/wp-content/uploads/datasheets/1587.pdf
-AUDIO TRAFO LUNDAHL
-0
-7
-7
-Transformer_THT
-Transformer_Myrra_74040_Horizontal
-Transformer, Transformator, ETD29, 13 Pin, Horizontal, Myrra-74040,
-Transformer Transformator ETD29 13 Pin Horizontal Myrra-74040 
-0
-13
-13
-Transformer_THT
-Transformer_Myrra_EF20_7408x
-EF20 flyback transformer,http://myrra.com/wp-content/uploads/2017/09/Datasheet-74087-74088-74089-rev-A.pdf
-transformer flyback SMPS
-0
-9
-9
-Transformer_THT
-Transformer_NF_ETAL_1-1_P1200
-NF-Transformer, 1:1, ETAL P1200,http://www.etalgroup.com/sites/default/files/products/P1200_April_2005.pdf
-NF-Transformer 1to1 ETAL P1200 
-0
-4
-4
-Transformer_THT
-Transformer_NF_ETAL_P1165
-NF-Transformer,  ETAL, P1165,http://www.etalgroup.com/sites/default/files/products/P1165_February_2006.pdf
-NF-Transformer ETAL P1165 
-0
-4
-4
-Transformer_THT
-Transformer_NF_ETAL_P3324
-NF-Transformer, ETAL P3324,http://www.etalgroup.com/sites/default/files/products/P3324_April_2005.pdf
-NF-Transformer ETAL P3324 
-0
-4
-4
-Transformer_THT
-Transformer_NF_ETAL_P3356
-NF-Transformer, ETAL P3356, http://www.etalgroup.com/sites/default/files/products/P3356_December_2005.pdf
-NF-Transformer ETAL P3356 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D9.0mm_Amidon-T30
-Transformer, Toroid, horizontal, laying, Diameter 9mm, Amidon, T30,
-Transformer Toroid horizontal laying Diameter 9mm Amidon T30 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D10.5mm_Amidon-T37
-Transformer, Toroid, horizontal, laying, Diameter 10,5mm, Amidon T37,
-Transformer Toroid horizontal laying Diameter 10 5mm Amidon T37 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D12.5mm_Amidon-T44
-Transformer, Toroid, horizontal, laying, Diameter 12,5mm, Amidon T44,
-Transformer Toroid horizontal laying Diameter 12 5mm Amidon T44 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D14.0mm_Amidon-T50
-Transformer, Toroid, horizontal, laying, Diameter 14mm, Amidon T50,
-Transformer Toroid horizontal laying Diameter 14mm Amidon T50 
-0
-4
-4
-Transformer_THT
-Transformer_Toroid_Horizontal_D18.0mm
-Transformer, Toroid, tapped, horizontal, laying, Diameter 18mm, 
-Transformer Toroid tapped horizontal laying Diameter 18mm 
-0
-5
-4
-Transformer_THT
-Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30
-Transformer, Toroid, tapped, horizontal, laying, Diameter 9mm, Amidon, T30,
-Transformer Toroid tapped horizontal laying Diameter 9mm Amidon T30 
-0
-6
-6
-Transformer_THT
-Transformer_Toroid_Tapped_Horizontal_D10.5mm_Amidon-T37
-Transformer, Toroid, tapped, horizontal, laying, Diameter 10,5mm, Amidon, T37,
-Transformer Toroid tapped horizontal laying Diameter 10 5mm Amidon T37 
-0
-6
-6
-Transformer_THT
-Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44
-Transformer, Toroid, tapped, horizontal, laying, Diameter 12,5mm, Amidon, T44,
-Transformer Toroid tapped horizontal laying Diameter 12 5mm Amidon T44 
-0
-6
-6
-Transformer_THT
-Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50
-Transformer, Toroid, tapped, horizontal, laying, Diameter 14mm, Amidon T50,
-Transformer Toroid tapped horizontal laying Diameter 14mm Amidon T50 
-0
-6
-6
-Transformer_THT
-Transformer_Wuerth_750343373
-Transformer, horizontal core with bobbin, 10 pin, 3.81mm pitch, 15.24mm row spacing, 22x23x17.53mm (https://katalog.we-online.com/ctm/datasheet/750343373.pdf)
-transformer flyback
-0
-10
-10
 akita
 1X04SMD_THIN
 
@@ -80240,6 +78385,20 @@ TB401-1-2-E, Akizuki
 0
 4
 2
+akita
+CON_microbit_cardedge
+
+
+0
+80
+80
+akita
+CON_microbit_cardedge_SMD
+
+
+0
+42
+41
 akita
 Core2Ext_Fsilk
 
@@ -80611,6 +78770,13 @@ SW_ROTENC_EC12E2430803
 0
 5
 4
+akita
+SW_SPDT_9x4mm_W2.5mm
+
+
+0
+3
+3
 akita
 Socker2.54mm_7p_OvalPad
 

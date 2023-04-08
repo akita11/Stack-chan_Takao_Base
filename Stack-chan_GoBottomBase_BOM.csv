@@ -1,0 +1,9 @@
+Designator,Footprint,Quantity,Value,LCSC Part #,,
+"C1, C2",CP_Radial_D6.3mm_P2.50mm,2,100u,https://akizukidenshi.com/catalog/g/gP-05002/,,※組み立てキット用
+"C3, C4",C_1206_3216Metric,2,100u,C312983,,※量産SMD用
+"CN1, CN3",USB-C_16p_V_TH,2,CON_USB-C-16p,C2848615,,
+CN2,CON_GROVE_V,1,CON_GROVE,C2845462,,
+"J1, J2",PinHeader_1x03_P2.54mm_Vertical,2,Conn_01x03,C429954,https://akizukidenshi.com/catalog/g/gC-03949/,
+"R1, R2",R_0603_1608Metric,2,5.1k,C23186,,※量産SMD用
+"R3, R4",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2,5.1k,,https://akizukidenshi.com/catalog/g/gR-16512/,※組み立てキット用
+SW1,SW_SPDT_9x4mm_W2.5mm,1,SW_SPDT,,https://akizukidenshi.com/catalog/g/gP-12723/,
