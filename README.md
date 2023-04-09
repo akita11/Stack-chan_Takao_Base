@@ -1,13 +1,13 @@
-# Stack-chan_GoBottomBase
+# Stack-chan_Takao_Base
 
-現時点で ｽﾀｯｸﾁｬﾝ を組み立てる最もシンプルな方法と思われる、[タカオさん](https://twitter.com/mongonta555)の[GoBottom版](https://mongonta.booth.pm/)のための、M5Stack本体と2個のサーボモータ、給電用のUSB TypeCコネクタがついたボードです。まるごと一式、GoBottom版のサーボ固定部分(Bracket)に収納できます。
+現時点で ｽﾀｯｸﾁｬﾝ を組み立てる最もシンプルな方法と思われる、[タカオさん](https://twitter.com/mongonta555)の[タカオ版（旧称：GoBottom版）](https://mongonta.booth.pm/)のための、M5Stack本体と2個のサーボモータ、給電用のUSB TypeCコネクタがついたボードです。まるごと一式、GoBottom版のサーボ固定部分(Bracket)に収納できます。
 
 ## 他に用意するもの
 
 - M5Stack本体 (Core BasicまたはCore2がおすすめ）
 - サーボモータ2個 ([FS90MG](https://www.switch-science.com/products/8041)や[M5Stack ServoKit 180deg](https://www.switch-science.com/products/6478)、[SG90](https://akizukidenshi.com/catalog/g/gM-08761/)など)
 - Groveケーブル ([M5Stack用5cm](https://www.switch-science.com/products/8664)など。すでにM5StackのUNITなどで余っているものがあればそれでもOK）
-- [タカオさんの"GoBottom版"の筐体一式](https://mongonta.booth.pm/)、または[それの3Dデータ](https://github.com/meganetaaan/stack-chan/tree/dev/v1.0/case/contributed/mongonta_case_for_SG90_and_M5GoBottomBoard)を3Dプリント出力したものと必要なネジ類
+- ["タカオ版（旧称：GoBottom版）"の筐体一式](https://mongonta.booth.pm/)、または[それの3Dデータ](https://github.com/meganetaaan/stack-chan/tree/dev/v1.0/case/contributed/mongonta_case_for_SG90_and_M5GoBottomBoard)を3Dプリント出力したものと必要なネジ類
 
 
 ## 使い方
