@@ -1,6 +1,21 @@
 # Stack-chan_Takao_Base
 
-現時点で ｽﾀｯｸﾁｬﾝ を組み立てる最もシンプルな方法と思われる、[タカオさん](https://twitter.com/mongonta555)の[タカオ版（旧称：GoBottom版）](https://mongonta.booth.pm/)のための、M5Stack本体と2個のサーボモータ、給電用のUSB TypeCコネクタがついたボードです。まるごと一式、GoBottom版のサーボ固定部分(Bracket)に収納できます。
+現時点で ｽﾀｯｸﾁｬﾝ を組み立てる最もシンプルな方法と思われる、[タカオさん](https://twitter.com/mongonta555)の[タカオ版（旧称：GoBottom版）](https://mongonta.booth.pm/)のための、M5Stack本体と2個のサーボモータ、給電用のUSB TypeCコネクタがついたボードです。電源スイッチもついています。まるごと一式、タカオ版のサーボ固定部分(Bracket)に収納できます。
+
+## 表面実装部品版（完成品としてスイッチサイエンスで委託販売予定です）
+
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardB-1.jpg">
+
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardB-2.jpg">
+
+## 挿入実装部品版（部品キットとしてスイッチサイエンスで委託販売予定です）
+
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-1.jpg">
+
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-2.jpg">
+
+※部品キット版では、[作り方](https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/README.md)の手順で部品をはんだ付けしてください。
+
 
 ## 他に用意するもの
 
@@ -20,14 +35,11 @@
 
 ## おまけ：本ボードを作りたい人は・・・
 
-- 基板を製造します (ガーバーデータ=Stack-chan_GoBottomBase_gerber.zip)
-- 部品を用意します（部品リスト=Stack-chan_GoBottomBase_BOM.csc) 主な部品は秋月電子で購入できます。USBコネクタのみ、[AliExpress](https://ja.aliexpress.com/item/1005004175942555.html)などから購入します（汎用品のようで、互換の製品が多数あります）
+- 基板を製造します (ガーバーデータ=Stack-chan_Takao_Base_gerber.zip)
+- 部品を用意します（部品リスト=Stack-chan_Takao_Base_BOM.csv) 主な部品は秋月電子で購入できます。USBコネクタのみ、[AliExpress](https://ja.aliexpress.com/item/1005004175942555.html)などから購入します（汎用品のようで、互換の製品が多数あります）
 
   - 挿入実装版（はんだ付けに自信のない方向け）: 抵抗とコンデンサはC1, C2, R3,R4を使います。
   - 表面実装版（はんだ付けに自信のある方向け）: 抵抗とコンデンサはC3, C4, R1,R2を使います。
-
-※JLCPCBのPCBA向けのファイルは準備中です。（が、裏面に挿入実装の部品があるので、コスパが悪そうで、あまり準備する意味がないかな、と思ったり・・・）
-
 
 ## Author
 
