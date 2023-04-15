@@ -2,17 +2,21 @@
 
 現時点で ｽﾀｯｸﾁｬﾝ を組み立てる最もシンプルな方法と思われる、[タカオさん](https://twitter.com/mongonta555)の[タカオ版（旧称：GoBottom版）](https://mongonta.booth.pm/)のための、M5Stack本体と2個のサーボモータ、給電用のUSB TypeCコネクタがついたボードです。電源スイッチもついています。まるごと一式、タカオ版のサーボ固定部分(Bracket)に収納できます。
 
-## 表面実装部品版（完成品としてスイッチサイエンスで委託販売予定です）
+## 表面実装部品版
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardB-1.jpg">
+※完成品としてスイッチサイエンスで委託販売予定です
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardB-2.jpg">
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardB-1.jpg" width="240px">
 
-## 挿入実装部品版（部品キットとしてスイッチサイエンスで委託販売予定です）
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardB-2.jpg" width="240px">
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-1.jpg">
+## 挿入実装部品版
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-2.jpg">
+※部品キットとしてスイッチサイエンスで委託販売予定です
+
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-1.jpg" width="240px">
+
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-2.jpg" width="240px">
 
 ※部品キット版では、[作り方](https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/README.md)の手順で部品をはんだ付けしてください。
 
