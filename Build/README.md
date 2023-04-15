@@ -8,7 +8,7 @@
 
 ## 用意するもの（部品一式）
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/components.jpg">
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/components.jpg" width="480px">
 
 - (1)基板：1個
 - (2)抵抗(5.1kΩ)：2本
@@ -102,9 +102,10 @@
 
 これまでと同じように、浮かないように注意しながら、まず1箇所、浮いていないのを確認してから、残りをはんだ付けします。
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/board-A1.jpg" width="240px">
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/board-A2.jpg" width="240px">
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-1.jpg" width="240px">
+
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-2.jpg" width="240px">
 
 完成！
 
