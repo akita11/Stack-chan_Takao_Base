@@ -4,7 +4,7 @@
 
 ## 表面実装部品版
 
-※完成品としてスイッチサイエンスで委託販売予定です
+※[完成品としてスイッチサイエンスで委託販売中](https://www.switch-science.com/products/8905)です
 
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardB-1.jpg" width="240px">
 
@@ -12,7 +12,7 @@
 
 ## 挿入実装部品版
 
-※部品キットとしてスイッチサイエンスで委託販売予定です
+※[部品キットとしてスイッチサイエンスで委託販売中](https://www.switch-science.com/products/8906)です
 
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-1.jpg" width="240px">
 
