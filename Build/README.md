@@ -1,4 +1,4 @@
-# Stack-chan_Takao_Baseの作り方
+# Stack-chan_Takao_Base（部品キット版）の作り方
 
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/boardA-1.jpg" width="240px">
 
@@ -78,7 +78,7 @@
 
 ## USBコネクタのとりつけ
 
-*※ここから先は、(1)基板の反対側の面に部品をとりつけます。*(1)基板の部品を取り付ける位置に、白い四角い枠があるのを確認して部品をとりつけてください。*くれぐれも逆側にとりつけないように注意！*
+*※ここから先は、(1)基板の反対側の面に部品をとりつけます。(1)基板の部品を取り付ける位置に、白い四角い枠があるのを確認して部品をとりつけてください。くれぐれも逆側にとりつけないように注意！*
 
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/build13.jpg" width="240px">
 
@@ -86,7 +86,7 @@
 
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/build14.jpg" width="240px">
 
-浮かないように中止ながら、まず1箇所だけはんだ付けします。はんだ付けする箇所がとても小さいですが、はんだがとなりとショートしないようにはんだの量に注意します。もしはんだが多すぎてショートしてしまったら、あわてずにはんだごてでちょんちょんとすれば、はんだが取り除けます。
+浮かないように注意ながら、まず1箇所だけはんだ付けします。はんだ付けする箇所がとても小さいですが、はんだがとなりとショートしないようにはんだの量に注意します。もしはんだが多すぎてショートしてしまったら、あわてずにはんだごてでちょんちょんとすれば、はんだが取り除けます。
 
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/build15.jpg" width="240px">
 
