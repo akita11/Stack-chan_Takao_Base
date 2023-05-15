@@ -4,9 +4,9 @@
 
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/usage1.jpg" width="240px">
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/usage1.jpg" width="240px">
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/usage2.jpg" width="240px">
 
-<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/usage1.jpg" width="240px">
+<img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/usage3.jpg" width="240px">
 
 
 ## 表面実装部品版
