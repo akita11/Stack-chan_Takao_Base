@@ -87,6 +87,7 @@
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/build14.jpg" width="240px">
 
 浮かないように注意ながら、まず1箇所だけはんだ付けします。はんだ付けする箇所がとても小さいですが、はんだがとなりとショートしないようにはんだの量に注意します。もしはんだが多すぎてショートしてしまったら、あわてずにはんだごてでちょんちょんとすれば、はんだが取り除けます。
+*端子の間隔が狭く、ショートしやすいので、十分に注意しましょう*
 
 <img src="https://github.com/akita11/Stack-chan_Takao_Base/blob/main/Build/build15.jpg" width="240px">
 
